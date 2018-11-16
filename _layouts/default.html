@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Rachit's Homepage</title>
+
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/pygment_trac.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/social.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        
+          <img src="../image.jpg" />
+          
+      <div class="socialbtns">
+        <p>
+          <b><font size=4px>VIJAY KESWANI</font></b><br>
+          <p>
+            <a href="CV.pdf"><i class="soc fas fa-lg fa-file fa-fw" color:"balck"></i></a><font size=3px style="font-weight: bold"> CV</font><br><br>
+            <a href="mailto:vijay.keswani@epfl.ch"><i class="soc fas fa-lg fa-envelope fa-fw"></i></a><font size=3px style="font-weight: bold"> vijay.keswani@epfl.ch</font><br><br>
+            <a href="https://www.facebook.com/vjkeswani"><i class="soc fab fa-lg fa-facebook-f"></i></a>
+            <a href="https://github.com/vijaykeswani"><i class="soc fab fa-lg fa-github"></i></a>
+          </p>
+        </p>
+      </div>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
