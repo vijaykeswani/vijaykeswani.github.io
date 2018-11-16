@@ -6,7 +6,7 @@ layout: default
 
 Hi! I am a second year PhD student at the École polytechnique fédérale de Lausanne, where I am advised by [Prof. Elisa Celis](https://theory.epfl.ch/celis/HOME.html) and [Prof. Nisheeth K. Vishnoi](https://theory.epfl.ch/vishnoi/Home.html). 
 
-I am interested in Machine Learning and Theoretical Computer Science, algorithmic fairness, convex and non-convex optimization and neural networks.
+I am interested in problems at the intersection of Machine Learning and Theoretical Computer Science. I have worked on or am currently working on problems related to algorithmic fairness, convex and non-convex optimization and neural networks.
 
 Before EPFL, I received my Bachelors and Masters degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of Prof. Rajat Mittal.
 
