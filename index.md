@@ -20,6 +20,11 @@ Before EPFL, I received my Bachelors and Masters degrees in Computer Science and
     <b>Classification with Fairness Constraints: A Meta-Algorithm with Provable Guarantees</b>\\
     ACM-FAT* 2019. [arxiv](https://arxiv.org/abs/1802.04023)
 
+### Demo Papers
+
+*   Sayash Kapoor, Vijay Keswani, Nisheeth K. Vishnoi, L. Elisa Celis\\
+    <b>Balanced News Using Constrained Bandit-based Personalization</b>\\
+    IJCAI-ECAI 2018. [arxiv](https://arxiv.org/abs/1806.09202)
 
 ### Master's Thesis
 
