@@ -26,6 +26,10 @@ Before EPFL, I received my Bachelors and Masters degrees in Computer Science and
     <b>Balanced News Using Constrained Bandit-based Personalization</b>\\
     IJCAI-ECAI 2018. [arxiv](https://arxiv.org/abs/1806.09202)
 
+### Fairness in AI
+
+*   Check out the website [cs.yale.edu/bias](http://cs.yale.edu/bias) for demos related to the algorithms we have developed to control bias in AI.
+
 ### Master's Thesis
 
 *  <b>Laplacian Solvers and Graph Sparsification</b> ([pdf](thesis.pdf))\\
