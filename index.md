@@ -8,7 +8,7 @@ Hi! I am a PhD student at Yale University, where I am advised by [Prof. Elisa Ce
 
 I am interested in problems at the intersection of Machine Learning and Theoretical Computer Science. I have worked on or am currently working on problems related to algorithmic fairness, convex and non-convex optimization and neural networks.
 
-Before EPFL, I received my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
+I received my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 ### Publications
 *   L. Elisa Celis, Vijay Keswani, Ozan Yildiz, Nisheeth K. Vishnoi\\
