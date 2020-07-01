@@ -6,7 +6,7 @@ layout: default
 
 Hi! I am a PhD student at Yale University in the Department of Statistics and Data Science, where I am advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/) and [Prof. Nisheeth K. Vishnoi](http://cs.yale.edu/homes/vishnoi). I was earlier at École polytechnique fédérale de Lausanne (EPFL) for two years.
 
-I am interested in problems related to machine learning, algorithmic fairness and social networks. Broadly, I am intrigued by interactions between society and automation, and the various questions around the broader impacts of computation.
+I am interested in problems related to machine learning, algorithmic fairness and social networks. Broadly, I am intrigued by interactions between society and automation, and the various questions around the potential discriminatory impacts of computation.
 
 I received my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
