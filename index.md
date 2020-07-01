@@ -12,7 +12,7 @@ I received my Bachelor and Master degrees in Computer Science and Engineering fr
 
 ### Preprints
 *   L. Elisa Celis, Vijay Keswani\\
-    <b> Dialect Diversity in Text Summarization on Twitter</b>\\
+    <b> Dialect Diversity in Text Summarization on Twitter</b>
     
 *   L. Elisa Celis, Vijay Keswani\\
     <b>Implicit Diversity in Image Summarization</b>\\
