@@ -11,9 +11,13 @@ I am interested in problems related to machine learning, algorithmic fairness an
 I received my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 ### Publications and Preprints
+*   L. Elisa Celis, Lingxiao Huang, Vijay Keswani, Nisheeth K. Vishnoi\\
+    <b> Fair Classification with Noisy Protected Attributes: A Framework with Provable Guarantees</b>\\
+    Working Paper. [arxiv](https://arxiv.org/abs/2006.04778)
+    
 *   L. Elisa Celis, Vijay Keswani\\
     <b> Dialect Diversity in Text Summarization on Twitter</b>\\
-    [arxiv](https://arxiv.org/pdf/2007.07860.pdf)
+    Working Paper. [arxiv](https://arxiv.org/pdf/2007.07860.pdf)
     
 *   L. Elisa Celis, Vijay Keswani\\
     <b>Implicit Diversity in Image Summarization</b>\\
@@ -25,7 +29,7 @@ I received my Bachelor and Master degrees in Computer Science and Engineering fr
 
 *   L. Elisa Celis, Vijay Keswani\\
     <b>Improved Adversarial Learning for Fair Classification</b>\\
-    [arxiv](https://arxiv.org/abs/1901.10443)
+    Working Paper. [arxiv](https://arxiv.org/abs/1901.10443)
 
 *   L. Elisa Celis, Sayash Kapoor, Farnood Salehi, Vijay Keswani, Nisheeth K. Vishnoi\\
     <b>A Dashboard for Controlling Polarization in Personalization</b>\\
