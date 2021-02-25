@@ -37,7 +37,7 @@ I received my Bachelor and Master degrees in Computer Science and Engineering fr
 
 *   L. Elisa Celis, Lingxiao Huang, Vijay Keswani and Nisheeth K. Vishnoi\\
     <b>Classification with Fairness Constraints: A Meta-Algorithm with Provable Guarantees</b>\\
-    ACM-FAT* 2019. [arxiv](https://arxiv.org/abs/1802.04023)
+    ACM-FAT* 2019. [arxiv](https://arxiv.org/abs/1806.06055)
 
 *   L. Elisa Celis, Vijay Keswani, Damian Straszak, Amit Deshpande, Tarun Kathuria, Nisheeth K. Vishnoi\\
     <b>Fair and Diverse DPP-based Data Summarization</b>\\
