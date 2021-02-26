@@ -11,13 +11,17 @@ I am interested in problems related to machine learning, algorithmic fairness an
 I received my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 ### Publications and Preprints
+*   Vijay Keswani, Matthew Lease, Krishnaram Kenthapadi\\
+    <b> Towards Unbiased and Accurate Deferral to Multiple Experts</b>\\
+    Working Paper. [arxiv](http://arxiv.org/abs/2102.13004)
+        
 *   L. Elisa Celis, Lingxiao Huang, Vijay Keswani, Nisheeth K. Vishnoi\\
     <b> Fair Classification with Noisy Protected Attributes: A Framework with Provable Guarantees</b>\\
     Working Paper. [arxiv](https://arxiv.org/abs/2006.04778)
     
-*   L. Elisa Celis, Vijay Keswani\\
+*   Vijay Keswani, L. Elisa Celis\\
     <b> Dialect Diversity in Text Summarization on Twitter</b>\\
-    Working Paper. [arxiv](https://arxiv.org/pdf/2007.07860.pdf)
+    The Web Conference 2021. [arxiv](https://arxiv.org/pdf/2007.07860.pdf)
     
 *   L. Elisa Celis, Vijay Keswani\\
     <b>Implicit Diversity in Image Summarization</b>\\
