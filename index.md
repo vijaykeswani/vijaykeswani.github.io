@@ -6,18 +6,18 @@ layout: default
 
 Hi! I am a PhD student at Yale University in the Department of Statistics and Data Science, where I am advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/) and [Prof. Nisheeth K. Vishnoi](http://cs.yale.edu/homes/vishnoi). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years.
 
-I am interested in problems related to machine learning, algorithmic fairness and social networks. Broadly, I am intrigued by interactions between society and automation, and the various questions around the potential discriminatory impacts of computation.
+I am interested in problems related to machine learning, algorithmic fairness and social networks. Broadly, I am intrigued by interactions between society and automation, and the various questions around the potential discriminatory impacts of AI applications.
 
 I received my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 ### Publications and Preprints
 *   Vijay Keswani, Matthew Lease, Krishnaram Kenthapadi\\
     <b> Towards Unbiased and Accurate Deferral to Multiple Experts</b>\\
-    Working Paper. [arxiv](http://arxiv.org/abs/2102.13004)
+    AIES 2021. [arxiv](http://arxiv.org/abs/2102.13004)
         
 *   L. Elisa Celis, Lingxiao Huang, Vijay Keswani, Nisheeth K. Vishnoi\\
     <b> Fair Classification with Noisy Protected Attributes: A Framework with Provable Guarantees</b>\\
-    Working Paper. [arxiv](https://arxiv.org/abs/2006.04778)
+    ICML 2021. [arxiv](https://arxiv.org/abs/2006.04778)
     
 *   Vijay Keswani, L. Elisa Celis\\
     <b> Dialect Diversity in Text Summarization on Twitter</b>\\
