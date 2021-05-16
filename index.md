@@ -50,7 +50,7 @@ I received my Bachelor and Master degrees in Computer Science and Engineering fr
 
 ### Fairness in AI
 
-*   Check out the website [cs.yale.edu/bias](http://cs.yale.edu/bias) for demos related to the algorithms we have developed to control bias in AI.
+*   Check out the website [controlling-bias.github.io/](https://controlling-bias.github.io/) for demos related to the algorithms we have developed to control bias in AI.
 
 ### Master's Thesis
 
