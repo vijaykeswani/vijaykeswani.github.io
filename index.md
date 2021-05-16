@@ -4,7 +4,7 @@ layout: default
 
 
 
-Hi! I am a PhD student at Yale University in the Department of Statistics and Data Science, where I am advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/) and [Prof. Nisheeth K. Vishnoi](http://cs.yale.edu/homes/vishnoi). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years.
+Hi! I am a PhD student at Yale University in the Department of Statistics and Data Science, where I am advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years.
 
 I am interested in problems related to machine learning, algorithmic fairness and social networks. Broadly, I am intrigued by interactions between society and automation, and the various questions around the potential discriminatory impacts of AI applications.
 
@@ -37,7 +37,8 @@ I received my Bachelor and Master degrees in Computer Science and Engineering fr
 
 *   L. Elisa Celis, Sayash Kapoor, Farnood Salehi, Vijay Keswani, Nisheeth K. Vishnoi\\
     <b>A Dashboard for Controlling Polarization in Personalization</b>\\
-    AI Communications 2019.
+    Invited paper in AI Communications 2019 
+    (Previously in IJCAI-ECAI 2018)
 
 *   L. Elisa Celis, Lingxiao Huang, Vijay Keswani and Nisheeth K. Vishnoi\\
     <b>Classification with Fairness Constraints: A Meta-Algorithm with Provable Guarantees</b>\\
