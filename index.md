@@ -11,6 +11,10 @@ I am interested in problems related to machine learning, algorithmic fairness an
 I received my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 ### Publications and Preprints
+*   Vijay Keswani, L. Elisa Celis\\
+    <b> Auditing for Diversity using Representative Examples</b>\\
+    ACM SIGKDD 2021. [arxiv](https://arxiv.org/abs/2107.07393)
+
 *   Vijay Keswani, Matthew Lease, Krishnaram Kenthapadi\\
     <b> Towards Unbiased and Accurate Deferral to Multiple Experts</b>\\
     AIES 2021. [arxiv](http://arxiv.org/abs/2102.13004)
