@@ -6,11 +6,15 @@ layout: default
 
 Hi! I am a PhD student at Yale University in the Department of Statistics and Data Science, where I am advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years.
 
-I am interested in problems related to machine learning, algorithmic fairness and social networks. Broadly, I am intrigued by interactions between society and automation, and the various questions around the potential discriminatory impacts of AI applications.
+I am interested in problems related to machine learning, algorithmic fairness and social networks. Broadly, I am intrigued by interactions between society and automation and the various questions around the potentially discriminatory impacts of AI applications.
 
 I received my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 ### Publications and Preprints
+*   Vijay Keswani, Matthew Lease, Krishnaram Kenthapadi\\
+    <b>  Designing human-in-the-loop approaches for closed deferral pipelines</b>\\
+    BHCC 2021. [pdf](https://drive.google.com/file/d/1K9T4l7NJJBRmVHEs2G9fShuVdVHk4AFx/view)
+        
 *   Vijay Keswani, L. Elisa Celis\\
     <b> Auditing for Diversity using Representative Examples</b>\\
     ACM SIGKDD 2021. [arxiv](https://arxiv.org/abs/2107.07393)
