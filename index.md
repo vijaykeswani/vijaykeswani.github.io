@@ -13,7 +13,7 @@ I received my Bachelor and Master degrees in Computer Science and Engineering fr
 ### Publications and Preprints
 *   Vijay Keswani, Matthew Lease, Krishnaram Kenthapadi\\
     <b>  Designing human-in-the-loop approaches for closed deferral pipelines</b>\\
-    BHCC 2021. [pdf](https://drive.google.com/file/d/1K9T4l7NJJBRmVHEs2G9fShuVdVHk4AFx/view)
+    BHCC 2021. [arxiv](https://arxiv.org/abs/2202.04718)
         
 *   Vijay Keswani, L. Elisa Celis\\
     <b> Auditing for Diversity using Representative Examples</b>\\
@@ -58,7 +58,7 @@ I received my Bachelor and Master degrees in Computer Science and Engineering fr
 
 ### Fairness in AI
 
-*   Check out the website [controlling-bias.github.io/](https://controlling-bias.github.io) for demos related to the algorithms we have developed to control bias in AI.
+*   Check out the website [controlling-bias.github.io](https://controlling-bias.github.io) for demos related to the algorithms we have developed to control bias in AI.
 
 ### Master's Thesis
 
