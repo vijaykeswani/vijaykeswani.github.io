@@ -11,6 +11,14 @@ I am interested in problems related to machine learning, algorithmic fairness an
 I received my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 ### Publications and Preprints
+*   Vijay Keswani, L. Elisa Celis\\
+    <b> An Anti-Subordination Approach to Fair Classification</b>\\
+    Working paper. [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116835)
+
+*   Vijay Keswani, L. Elisa Celis\\
+    <b> Addressing Strategic Manipulation Disparities in Fair Classification</b>\\
+    Working paper. [arxiv](https://arxiv.org/abs/2205.10842)
+
 *   Vijay Keswani, Oren Mangoubi, Sushant Sachdeva, Nisheeth K. Vishnoi\\
     <b>A Convergent and Dimension-Independent Min-Max Optimization Algorithm</b>\\
     ICML 2022. [arxiv](https://arxiv.org/abs/2006.12376)
@@ -45,7 +53,7 @@ I received my Bachelor and Master degrees in Computer Science and Engineering fr
 
 *   L. Elisa Celis, Vijay Keswani\\
     <b>Improved Adversarial Learning for Fair Classification</b>\\
-    Working Paper. [arxiv](https://arxiv.org/abs/1901.10443)
+    [arxiv](https://arxiv.org/abs/1901.10443)
 
 *   L. Elisa Celis, Sayash Kapoor, Farnood Salehi, Vijay Keswani, Nisheeth K. Vishnoi\\
     <b>A Dashboard for Controlling Polarization in Personalization</b>\\
