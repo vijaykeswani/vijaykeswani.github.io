@@ -15,13 +15,13 @@ I received my Bachelor and Master degrees in Computer Science and Engineering fr
     <b> An Anti-Subordination Approach to Fair Classification</b>\\
     Working paper. [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116835)
 
-*   Florian Evéquoz, Johan Rochel, Vijay Keswani, L. Elisa Celis\\
-    <b> Diverse Representation via Computational Participatory Elections -- Lessons from a Case Study</b>\\
-    Working paper. [arxiv](https://arxiv.org/abs/2205.15394)
-
 *   Vijay Keswani, L. Elisa Celis\\
     <b> Addressing Strategic Manipulation Disparities in Fair Classification</b>\\
     Working paper. [arxiv](https://arxiv.org/abs/2205.10842)
+
+*   Florian Evéquoz, Johan Rochel, Vijay Keswani, L. Elisa Celis\\
+    <b> Diverse Representation via Computational Participatory Elections -- Lessons from a Case Study</b>\\
+    EAAMO 2022. [arxiv](https://arxiv.org/abs/2205.15394)
 
 *   Vijay Keswani, Oren Mangoubi, Sushant Sachdeva, Nisheeth K. Vishnoi\\
     <b>A Convergent and Dimension-Independent Min-Max Optimization Algorithm</b>\\
