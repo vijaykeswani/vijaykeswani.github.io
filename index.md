@@ -10,14 +10,16 @@ I am interested in problems related to machine learning, algorithmic fairness an
 
 I received my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
-### Publications and Preprints
-*   Vijay Keswani, L. Elisa Celis\\
-    <b> An Anti-Subordination Approach to Fair Classification</b>\\
-    Working paper. [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116835)
+**I am on the job market for ethical AI positions.**
 
+### Publications and Preprints
 *   Vijay Keswani, L. Elisa Celis\\
     <b> Addressing Strategic Manipulation Disparities in Fair Classification</b>\\
     Working paper. [arxiv](https://arxiv.org/abs/2205.10842)
+
+*   Vijay Keswani, L. Elisa Celis\\
+    <b> An Anti-Subordination Approach to Fair Classification</b>\\
+    EAAMO 2022 (Poster). [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116835)
 
 *   Florian Evéquoz, Johan Rochel, Vijay Keswani, L. Elisa Celis\\
     <b> Diverse Representation via Computational Participatory Elections -- Lessons from a Case Study</b>\\
