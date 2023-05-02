@@ -17,6 +17,10 @@ I received my Bachelor and Master degrees in Computer Science and Engineering fr
     <b> Addressing Strategic Manipulation Disparities in Fair Classification</b>\\
     Working paper. [arxiv](https://arxiv.org/abs/2205.10842)
 
+*   Vijay Keswani, L. Elisa Celis, Matthew Lease, Krishnaram Kenthapadi\\
+    <b> Designing Closed-Loop Models for Task Allocation</b>\\
+    HHAI 2023.
+
 *   Vijay Keswani, L. Elisa Celis\\
     <b> An Anti-Subordination Approach to Fair Classification</b>\\
     EAAMO 2022 (Poster). [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116835)
