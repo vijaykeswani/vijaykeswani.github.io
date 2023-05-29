@@ -4,13 +4,10 @@ layout: default
 
 
 
-Hi! I am a PhD student at Yale University in the Department of Statistics and Data Science, where I am advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years.
+Hi! I am a researcher interested in problems related to algorithmic fairness, data and tech ethics, and community-focused AI development. Broadly, my work studies the interactions between society and automation and addresses various questions around potentially harmful impacts of AI applications.
 
-I am interested in problems related to machine learning, algorithmic fairness and social networks. Broadly, I am intrigued by interactions between society and automation and the various questions around the potentially discriminatory impacts of AI applications.
+I received my Ph.D. from the Department of Statistics and Data Science at Yale University, where I was advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years. I completed my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
-I received my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
-
-**I am on the job market for ethical AI positions.**
 
 ### Publications and Preprints
 *   Vijay Keswani, L. Elisa Celis\\
@@ -81,6 +78,11 @@ I received my Bachelor and Master degrees in Computer Science and Engineering fr
 ### Fairness in AI
 
 *   Check out the website [controlling-bias.github.io](https://controlling-bias.github.io) for demos related to the algorithms we have developed to control bias in AI.
+
+### Ph.D. Thesis
+
+*   <b>Algorithmic Decision-Making with Stakeholder Participation</b>
+    Supervised by Prof. Elisa Celis
 
 ### Master's Thesis
 
