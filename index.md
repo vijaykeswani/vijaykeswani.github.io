@@ -4,23 +4,27 @@ layout: default
 
 
 
-Hi! I am a researcher interested in problems related to algorithmic fairness, data and tech ethics, and community-focused AI development. Broadly, my work studies the interactions between society and automation and addresses various questions around potentially harmful impacts of AI applications.
+Hi! I am a researcher interested in problems related to algorithmic fairness, data and tech ethics, and community-focused AI development. Broadly, my work studies the interactions between society and automation and addresses various questions around the potentially harmful impacts of AI applications.
 
-I received my Ph.D. from the Department of Statistics and Data Science at Yale University, where I was advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years. I completed my Bachelor and Master degrees in Computer Science and Engineering from Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
+I am currently a Postdoctoral Associate at Duke University. I received my Ph.D. from the Department of Statistics and Data Science at Yale University in May 2023, where I was advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years. I completed my Bachelor's and Master's degrees in Computer Science and Engineering from the Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 
 ### Publications and Preprints
 *   Vijay Keswani, L. Elisa Celis\\
     <b> Addressing Strategic Manipulation Disparities in Fair Classification</b>\\
-    Working paper. [arxiv](https://arxiv.org/abs/2205.10842)
+    EAAMO 2023. [arxiv](https://arxiv.org/abs/2205.10842)
+
+*   Vijay Keswani\\
+    <b> Social Media Platform Structures and Their Implications</b>\\
+    EcAI Workshop 2023. [pdf]([https://arxiv.org/abs/2205.10842](https://ceur-ws.org/Vol-3456/short3-3.pdf))
 
 *   Vijay Keswani, L. Elisa Celis, Matthew Lease, Krishnaram Kenthapadi\\
     <b> Designing Closed-Loop Models for Task Allocation</b>\\
-    HHAI 2023.
+    HHAI 2023. [arxiv](https://arxiv.org/abs/2305.19864)
 
 *   Vijay Keswani, L. Elisa Celis\\
     <b> An Anti-Subordination Approach to Fair Classification</b>\\
-    EAAMO 2022 (Poster). [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116835)
+    EAAMO 2022 (Non-archival). [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116835)
 
 *   Florian Evéquoz, Johan Rochel, Vijay Keswani, L. Elisa Celis\\
     <b> Diverse Representation via Computational Participatory Elections -- Lessons from a Case Study</b>\\
@@ -32,7 +36,7 @@ I received my Ph.D. from the Department of Statistics and Data Science at Yale U
     
 *   Vijay Keswani, Matthew Lease, Krishnaram Kenthapadi\\
     <b>  Designing human-in-the-loop approaches for closed deferral pipelines</b>\\
-    BHCC 2021. [arxiv](https://arxiv.org/abs/2202.04718)
+    BHCC 2021 (Non-archival). [arxiv](https://arxiv.org/abs/2202.04718)
         
 *   Vijay Keswani, L. Elisa Celis\\
     <b> Auditing for Diversity using Representative Examples</b>\\
