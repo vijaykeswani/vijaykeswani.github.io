@@ -6,7 +6,7 @@ layout: default
 
 Hi! I am a researcher interested in problems related to algorithmic fairness, data and tech ethics, and community-focused AI development. Broadly, my work studies the interactions between society and automation and addresses various questions around the potentially harmful impacts of AI applications.
 
-I am currently a Postdoctoral Associate at Duke University. I received my Ph.D. from the Department of Statistics and Data Science at Yale University in May 2023, where I was advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years. I completed my Bachelor's and Master's degrees in Computer Science and Engineering from the Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
+I am currently a Postdoctoral Associate in the Department of Philosophy at Duke University. I received my Ph.D. from the Department of Statistics and Data Science at Yale University in May 2023, where I was advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years. I completed my Bachelor's and Master's degrees in Computer Science and Engineering from the Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 
 ### Publications and Preprints
