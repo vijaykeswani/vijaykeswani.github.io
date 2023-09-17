@@ -7,7 +7,7 @@ Hi! I am a researcher interested in problems related to algorithmic fairness, da
 
 I am currently a Postdoctoral Associate in the [Department of Philosophy](https://philosophy.duke.edu/) at Duke University, hosted by [Walter Sinnott-Armstrong](https://www.sinnott-armstrong.com/). 
 
-I received my Ph.D. from the [Department of Statistics and Data Science](statistics.yale.edu/) at Yale University, where I was advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years. I completed my Bachelor's and Master's degrees in Computer Science and Engineering from the Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
+I received my Ph.D. from the [Department of Statistics and Data Science](statistics.yale.edu/) at Yale University, where I was advised by [Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years. I completed my Bachelor's and Master's degrees in Computer Science and Engineering from the Indian Institute of Technology, Kanpur under the supervision of [Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 
 ### Publications and Preprints
