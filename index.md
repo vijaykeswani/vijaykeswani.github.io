@@ -3,10 +3,11 @@ layout: default
 ---
 
 
-
 Hi! I am a researcher interested in problems related to algorithmic fairness, data and tech ethics, and community-focused AI development. Broadly, my work studies the interactions between society and automation and addresses various questions around the potentially harmful impacts of AI applications.
 
-I am currently a Postdoctoral Associate in the Department of Philosophy at Duke University. I received my Ph.D. from the Department of Statistics and Data Science at Yale University, where I was advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years. I completed my Bachelor's and Master's degrees in Computer Science and Engineering from the Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
+I am currently a Postdoctoral Associate in the [Department of Philosophy](https://philosophy.duke.edu/) at Duke University, hosted by [Walter Sinnott-Armstrong](https://www.sinnott-armstrong.com/). 
+
+I received my Ph.D. from the [Department of Statistics and Data Science](statistics.yale.edu/) at Yale University, where I was advised by [Prof. Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years. I completed my Bachelor's and Master's degrees in Computer Science and Engineering from the Indian Institute of Technology, Kanpur under the supervision of [Prof. Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 
 ### Publications and Preprints
@@ -16,7 +17,7 @@ I am currently a Postdoctoral Associate in the Department of Philosophy at Duke 
 
 *   Vijay Keswani\\
     <b> Social Media Platform Structures and Their Implications</b>\\
-    EcAI Workshop 2023. [pdf]([https://arxiv.org/abs/2205.10842](https://ceur-ws.org/Vol-3456/short3-3.pdf))
+    EcAI Workshop 2023. [pdf](https://ceur-ws.org/Vol-3456/short3-3.pdf)
 
 *   Vijay Keswani, L. Elisa Celis, Matthew Lease, Krishnaram Kenthapadi\\
     <b> Designing Closed-Loop Models for Task Allocation</b>\\
