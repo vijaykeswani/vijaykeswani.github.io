@@ -5,9 +5,9 @@ layout: default
 
 Hi! I am a researcher interested in problems related to algorithmic fairness, data and tech ethics, and community-focused AI development. Broadly, my work studies the interactions between society and automation and addresses various questions around the potentially harmful impacts of AI applications.
 
-I am currently a Postdoctoral Associate in the [Department of Philosophy](https://philosophy.duke.edu/) at Duke University, hosted by [Walter Sinnott-Armstrong](https://www.sinnott-armstrong.com/). 
+I am currently a Postdoctoral Associate in the [Department of Philosophy](https://philosophy.duke.edu/) at Duke University, hosted by [Walter Sinnott-Armstrong](https://www.sinnott-armstrong.com/). I am also affiliated with the [Kenan Institute of Ethics](https://kenan.ethics.duke.edu/) at Duke.
 
-I received my Ph.D. from the [Department of Statistics and Data Science](statistics.yale.edu/) at Yale University, where I was advised by [Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years. I completed my Bachelor's and Master's degrees in Computer Science and Engineering from the Indian Institute of Technology, Kanpur under the supervision of [Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
+I received my Ph.D. from the [Department of Statistics and Data Science](https://statistics.yale.edu/) at Yale University, where I was advised by [Elisa Celis](https://datascienceethics.org/elisacelis/). Prior to this, I was at École Polytechnique Fédérale de Lausanne (EPFL) for two years. I completed my Bachelor's and Master's degrees in Computer Science and Engineering at the Indian Institute of Technology, Kanpur under the supervision of [Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 
 ### Publications and Preprints
