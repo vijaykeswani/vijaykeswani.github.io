@@ -72,7 +72,7 @@ I received my Ph.D. from the [Department of Statistics and Data Science](https:/
     Invited paper in AI Communications 2019 
     (Previously in IJCAI-ECAI 2018)
 
-*   L. Elisa Celis, Lingxiao Huang, Vijay Keswani and Nisheeth K. Vishnoi\\
+*   L. Elisa Celis, Lingxiao Huang, Vijay Keswani, Nisheeth K. Vishnoi\\
     <b>Classification with Fairness Constraints: A Meta-Algorithm with Provable Guarantees</b>\\
     ACM-FAT* 2019. [arxiv](https://arxiv.org/abs/1806.06055)
 
@@ -82,13 +82,13 @@ I received my Ph.D. from the [Department of Statistics and Data Science](https:/
 
 ### Ph.D. Thesis
 
-*   <b>Algorithmic Decision-Making with Stakeholder Participation.</b>\\
-    2023. Supervised by Prof. Elisa Celis. [html](Dissertation.html), [pdf](Dissertation.pdf)
+*   <b>Algorithmic Decision-Making with Stakeholder Participation</b>\\
+    Supervised by Prof. Elisa Celis. 2023. [html](Dissertation.html), [pdf](Dissertation.pdf)
 
 ### Master's Thesis
 
-*   <b>Laplacian Solvers and Graph Sparsification.</b>\\
-    2016. Supervised by Prof. Rajat Mittal. [pdf](thesis.pdf)
+*   <b>Laplacian Solvers and Graph Sparsification</b>\\
+    Supervised by Prof. Rajat Mittal. 2016. [pdf](thesis.pdf)
 
 ### Fairness in AI
 
