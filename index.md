@@ -80,16 +80,16 @@ I received my Ph.D. from the [Department of Statistics and Data Science](https:/
     <b>Fair and Diverse DPP-based Data Summarization</b>\\
     ICML 2018. [arxiv](https://arxiv.org/abs/1802.04023)
 
-### Fairness in AI
-
-*   Check out the website [controlling-bias.github.io](https://controlling-bias.github.io) for demos related to the algorithms we have developed to control bias in AI.
-
 ### Ph.D. Thesis
 
 *   <b>Algorithmic Decision-Making with Stakeholder Participation</b> [html](Dissertation.html), [pdf](Dissertation.pdf)
-    Supervised by Prof. Elisa Celis
+    2023. Supervised by Prof. Elisa Celis
 
 ### Master's Thesis
 
-*  <b>Laplacian Solvers and Graph Sparsification</b> [pdf](thesis.pdf)\\
-	Supervised by Prof. Rajat Mittal.
+*   <b>Laplacian Solvers and Graph Sparsification</b> [pdf](thesis.pdf)\\
+    2016. Supervised by Prof. Rajat Mittal.
+
+### Fairness in AI
+
+*   Check out the website [controlling-bias.github.io](https://controlling-bias.github.io) for demos related to the algorithms we developed to control bias in AI.
