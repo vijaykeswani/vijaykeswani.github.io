@@ -82,13 +82,13 @@ I received my Ph.D. from the [Department of Statistics and Data Science](https:/
 
 ### Ph.D. Thesis
 
-*   <b>Algorithmic Decision-Making with Stakeholder Participation</b> [html](Dissertation.html), [pdf](Dissertation.pdf)
-    2023. Supervised by Prof. Elisa Celis
+*   <b>Algorithmic Decision-Making with Stakeholder Participation.</b>\\
+    2023. Supervised by Prof. Elisa Celis. [html](Dissertation.html), [pdf](Dissertation.pdf)
 
 ### Master's Thesis
 
-*   <b>Laplacian Solvers and Graph Sparsification</b> [pdf](thesis.pdf)\\
-    2016. Supervised by Prof. Rajat Mittal.
+*   <b>Laplacian Solvers and Graph Sparsification.</b>\\
+    2016. Supervised by Prof. Rajat Mittal. [pdf](thesis.pdf)
 
 ### Fairness in AI
 
