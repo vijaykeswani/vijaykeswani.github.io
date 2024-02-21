@@ -9,7 +9,7 @@ I am currently a Postdoctoral Associate, working with [Walter Sinnott-Armstrong]
 
 I received my Ph.D. from the [Department of Statistics and Data Science](https://statistics.yale.edu/) at Yale University, where I was advised by [Elisa Celis](https://datascienceethics.org/elisacelis/). While at Yale, I was also a Resident Fellow at the Information Society Project (ISP) at Yale Law School and a 2022 Policy Fellow at the Yale Institute for Social and Policy Studies (ISPS). Prior to this, I spent two years at École Polytechnique Fédérale de Lausanne (EPFL). Even before that, I completed my Bachelor's and Master's degrees in Computer Science and Engineering at the Indian Institute of Technology, Kanpur under the supervision of [Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
-### Publications and Preprints
+### Publications, Preprints, and Workshop Papers
 *   Vijay Keswani, L. Elisa Celis\\
     <b> Addressing Strategic Manipulation Disparities in Fair Classification</b>\\
     EAAMO 2023. [arxiv](https://arxiv.org/abs/2205.10842)
