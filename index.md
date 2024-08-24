@@ -10,6 +10,22 @@ I am currently a Postdoctoral Associate, working with [Walter Sinnott-Armstrong]
 I received my Ph.D. from the [Department of Statistics and Data Science](https://statistics.yale.edu/) at Yale University, where I was advised by [Elisa Celis](https://datascienceethics.org/elisacelis/). While at Yale, I was also a Resident Fellow at the Information Society Project (ISP) at Yale Law School and a 2022 Policy Fellow at the Yale Institute for Social and Policy Studies (ISPS). Prior to this, I spent two years at École Polytechnique Fédérale de Lausanne (EPFL). Even before that, I completed my Bachelor's and Master's degrees in Computer Science and Engineering at the Indian Institute of Technology, Kanpur where I worked with [Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 ### Publications, Preprints, and Workshop Papers
+*   Vijay Keswani, Vincent Conitzer, Hoda Heidari, Jana Schaich Borg, Walter Sinnott-Armstrong\\
+    <b> On the Pros and Cons of Active Learning for Moral Preference Elicitation</b>\\
+    AIES 2024. [arxiv](https://arxiv.org/abs/2407.18889)
+
+*   Kyle Boerstler, Vijay Keswani, Lok Chan, Jana Schaich Borg, Vincent Conitzer, Hoda Heidari, Walter Sinnott-Armstrong\\
+    <b> On The Stability of Moral Preferences: A Problem with Computational Elicitation Methods</b>\\
+    AIES 2024. [arxiv](https://arxiv.org/abs/2408.02862)
+
+*   Vijay Keswani, L. Elisa Celis\\
+    <b> Algorithmic Fairness From the Perspective of Legal Anti-discrimination Principles</b>\\
+    AIES 2024 (An earlier non-archival version of this paper was presented at EAAMO 2022). [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116835)
+
+*   Vijay Keswani, Anay Mehrotra, L. Elisa Celis\\
+    <b> Fair Classification with Partial Feedback: An Exploration-Based Data-Collection Approach</b>\\
+    ICML 2024. [arxiv](https://arxiv.org/abs/2402.11338)
+
 *   Vijay Keswani, L. Elisa Celis\\
     <b> Addressing Strategic Manipulation Disparities in Fair Classification</b>\\
     EAAMO 2023. [arxiv](https://arxiv.org/abs/2205.10842)
@@ -21,10 +37,6 @@ I received my Ph.D. from the [Department of Statistics and Data Science](https:/
 *   Vijay Keswani, L. Elisa Celis, Matthew Lease, Krishnaram Kenthapadi\\
     <b> Designing Closed-Loop Models for Task Allocation</b>\\
     HHAI 2023. [arxiv](https://arxiv.org/abs/2305.19864)
-
-*   Vijay Keswani, L. Elisa Celis\\
-    <b> An Anti-Subordination Approach to Fair Classification</b>\\
-    EAAMO 2022 (Non-archival). [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116835)
 
 *   Florian Evéquoz, Johan Rochel, Vijay Keswani, L. Elisa Celis\\
     <b> Diverse Representation via Computational Participatory Elections -- Lessons from a Case Study</b>\\
