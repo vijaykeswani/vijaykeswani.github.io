@@ -10,6 +10,14 @@ I am currently a Postdoctoral Associate, working with [Walter Sinnott-Armstrong]
 I received my Ph.D. from the [Department of Statistics and Data Science](https://statistics.yale.edu/) at Yale University, where I was advised by [Elisa Celis](https://datascienceethics.org/elisacelis/). While at Yale, I was also a Resident Fellow at the Information Society Project (ISP) at Yale Law School and a 2022 Policy Fellow at the Yale Institute for Social and Policy Studies (ISPS). Prior to this, I spent two years at École Polytechnique Fédérale de Lausanne (EPFL). Even before that, I completed my Bachelor's and Master's degrees in Computer Science and Engineering at the Indian Institute of Technology, Kanpur where I worked with [Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 ### Publications, Preprints, and Workshop Papers
+*   Vijay Keswani, Vincent Conitzer, Walter Sinnott-Armstrong, Breanna K. Nguyen, Hoda Heidari, Jana Schaich Borg\\
+    <b> Can AI Model the Complexities of Human Moral Decision-Making? A Qualitative Study of Kidney Allocation Decisions </b>\\
+    2025.
+
+*   Vijay Keswani, Anay Mehrotra, L. Elisa Celis\\
+    <b> Fair Classification with Partial Feedback: An Exploration-Based Data-Collection Approach</b>\\
+    ICML 2024. [arxiv](https://arxiv.org/abs/2402.11338)    
+
 *   Vijay Keswani, Vincent Conitzer, Hoda Heidari, Jana Schaich Borg, Walter Sinnott-Armstrong\\
     <b> On the Pros and Cons of Active Learning for Moral Preference Elicitation</b>\\
     AIES 2024. [arxiv](https://arxiv.org/abs/2407.18889)
@@ -21,10 +29,6 @@ I received my Ph.D. from the [Department of Statistics and Data Science](https:/
 *   Vijay Keswani, L. Elisa Celis\\
     <b> Algorithmic Fairness From the Perspective of Legal Anti-discrimination Principles</b>\\
     AIES 2024 (An earlier non-archival version of this paper was presented at EAAMO 2022). [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116835)
-
-*   Vijay Keswani, Anay Mehrotra, L. Elisa Celis\\
-    <b> Fair Classification with Partial Feedback: An Exploration-Based Data-Collection Approach</b>\\
-    ICML 2024. [arxiv](https://arxiv.org/abs/2402.11338)
 
 *   Vijay Keswani, L. Elisa Celis\\
     <b> Addressing Strategic Manipulation Disparities in Fair Classification</b>\\
