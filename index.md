@@ -11,8 +11,8 @@ I received my Ph.D. from the [Department of Statistics and Data Science](https:/
 
 ### Publications, Preprints, and Workshop Papers
 *   Vijay Keswani, Vincent Conitzer, Walter Sinnott-Armstrong, Breanna K. Nguyen, Hoda Heidari, Jana Schaich Borg\\
-    <b> Can AI Model the Complexities of Human Moral Decision-Making? A Qualitative Study of Kidney Allocation Decisions </b>\\
-    2025.
+    <b> Can AI Model the Complexities of Human Moral Decision-Making? A Qualitative Study of Kidney Allocation Decisions</b>\\
+    CHI 2025. [arxiv](https://arxiv.org/abs/2503.00940)
 
 *   Vijay Keswani, Anay Mehrotra, L. Elisa Celis\\
     <b> Fair Classification with Partial Feedback: An Exploration-Based Data-Collection Approach</b>\\
