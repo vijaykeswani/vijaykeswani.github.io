@@ -5,11 +5,23 @@ layout: default
 
 Hi! I am a researcher interested in problems related to data and tech ethics, algorithmic fairness, tech alignment, and community-focused AI development. Broadly, my work studies the interactions between society and automation and addresses various questions around the potentially harmful impacts of AI applications.
 
-Most recently, I was a Postdoctoral Associate, working with [Walter Sinnott-Armstrong](https://www.sinnott-armstrong.com/) and [Jana Schaich Borg](https://scholars.duke.edu/person/borg) at Duke University, and [Hoda Heidari](https://www.cs.cmu.edu/~hheidari/) and [Vincent Conitzer](http://www.cs.cmu.edu/~conitzer/) at Carnegie Mellon University. For this postdoc, I was affiliated with the [Social Science Research Institute](https://ssri.duke.edu/) at Duke, the [Duke Philosophy](https://philosophy.duke.edu/) department, and the [Kenan Institute of Ethics](https://kenan.ethics.duke.edu/).
+**I will be joining the Computer Science and Engineering department at IIT Delhi very soon. Do reach out if you wish to discuss or collaborate on any problems related to responsible AI.
+**
 
-I received my Ph.D. from the [Department of Statistics and Data Science](https://statistics.yale.edu/) at Yale University, where I was advised by [Elisa Celis](https://datascienceethics.org/elisacelis/). While at Yale, I was a Resident Fellow at the Information Society Project (ISP) at Yale Law School from 2022-2023 and a 2022 Policy Fellow at the Yale Institute for Social and Policy Studies (ISPS). Prior to that, I spent two years at École Polytechnique Fédérale de Lausanne (EPFL). Even before that, I completed my Bachelor's and Master's degrees in Computer Science and Engineering at the Indian Institute of Technology, Kanpur, where I worked with [Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
+Earlier, I was a Postdoctoral Associate, working with [Walter Sinnott-Armstrong](https://www.sinnott-armstrong.com/) and [Jana Schaich Borg](https://scholars.duke.edu/person/borg) at Duke University, and [Hoda Heidari](https://www.cs.cmu.edu/~hheidari/) and [Vincent Conitzer](http://www.cs.cmu.edu/~conitzer/) at Carnegie Mellon University. For this postdoc, I was affiliated with the [Social Science Research Institute](https://ssri.duke.edu/) at Duke, the [Duke Philosophy](https://philosophy.duke.edu/) department, and the [Kenan Institute of Ethics](https://kenan.ethics.duke.edu/).
+
+I received my Ph.D. from the [Department of Statistics and Data Science](https://statistics.yale.edu/) at Yale University, where I was advised by [Elisa Celis](https://datascienceethics.org/elisacelis/). While at Yale, I was a Resident Fellow at the Information Society Project (ISP) at Yale Law School from 2022-2023 and a 2022 Policy Fellow at the Yale Institute for Social and Policy Studies (ISPS). Prior to that, I spent two years at École Polytechnique Fédérale de Lausanne (EPFL). I completed my Bachelor's and Master's degrees in Computer Science and Engineering at the Indian Institute of Technology, Kanpur, where I worked with [Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
 ### Publications, Preprints, and Workshop Papers
+
+*   Vijay Keswani, Cyrus Cousins, Breanna Nguyen, Vincent Conitzer, Hoda Heidari, Jana Schaich Borg, Walter Sinnott-Armstrong\\
+    <b> Moral Change or Noise? On Problems of Aligning AI With Temporally Unstable Human Feedback</b>\\
+    AAAI 2026 (Alignment Track). [arxiv](https://arxiv.org/pdf/2511.10032)
+
+*   Cyrus Cousins, Vijay Keswani, Vincent Conitzer, Hoda Heidari, Jana Schaich Borg, Walter Sinnott-Armstrong\\
+    <b> Towards Cognitively-Faithful Decision-Making Models to Improve AI Alignment</b>\\
+    Working paper. [arxiv](https://arxiv.org/abs/2509.04445)
+
 *   Vijay Keswani, Vincent Conitzer, Walter Sinnott-Armstrong, Breanna K. Nguyen, Hoda Heidari, Jana Schaich Borg\\
     <b> Can AI Model the Complexities of Human Moral Decision-Making? A Qualitative Study of Kidney Allocation Decisions</b>\\
     CHI 2025. [arxiv](https://arxiv.org/abs/2503.00940)
