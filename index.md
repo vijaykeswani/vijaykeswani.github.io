@@ -5,7 +5,7 @@ layout: default
 
 Hi! I am a researcher interested in problems related to data and tech ethics, algorithmic fairness, tech alignment, and community-focused AI development. Broadly, my work studies the interactions between society and automation and addresses various questions around the potentially harmful impacts of AI applications.
 
-<b>I will be joining the Computer Science and Engineering department at IIT Delhi as an Assistant Professor in Dec 2026. Do reach out if you wish to discuss or collaborate on any problems related to responsible AI.</b>
+<b>I will be joining the Computer Science and Engineering department at IIT Delhi as an Assistant Professor in Dec 2025. Do reach out if you wish to discuss or collaborate on any problems related to responsible AI.</b>
 
 Earlier, I was a Postdoctoral Associate, working with [Walter Sinnott-Armstrong](https://www.sinnott-armstrong.com/) and [Jana Schaich Borg](https://scholars.duke.edu/person/borg) at Duke University, and [Hoda Heidari](https://www.cs.cmu.edu/~hheidari/) and [Vincent Conitzer](http://www.cs.cmu.edu/~conitzer/) at Carnegie Mellon University. For this postdoc, I was affiliated with the [Social Science Research Institute](https://ssri.duke.edu/) at Duke, the [Duke Philosophy](https://philosophy.duke.edu/) department, and the [Kenan Institute of Ethics](https://kenan.ethics.duke.edu/).
 
