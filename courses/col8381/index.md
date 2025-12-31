@@ -62,3 +62,4 @@ Final grades will be based on:
 1. *[Socially Responsible AI Algorithms: Issues, Purposes, and Challenges](https://arxiv.org/abs/2101.02032)* — Lu Cheng, Kush R. Varshney, Huan Liu (pp. 1–7)
 2. *[Managing Extreme AI Risks Amid Rapid Progress](https://www.science.org/doi/full/10.1126/science.adn0117)* — Yoshua Bengio et al.
 
+**Full reading list to be added soon**
