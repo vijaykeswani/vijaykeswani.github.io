@@ -1,51 +1,77 @@
-# Responsible AI and Machine Learning
+# COL 8381/864: Special Topics in Responsible AI
 
 ## Course Overview
 
-**Instructor:**  
-**Classes:**  
-**Office Hours:**  
+**Instructor: Vijay Keswani**  
+**Classes: Tues-Fri 2.00-3.30 pm at LH 605**  
+**Office Hours: Wed 2.00-4.00 pm at Bharti 418**
+
+Sign up at <a href="https://calendly.com/vijaykeswani-slg/office-hours-30-min">this link</a> or email to set up another time if the above doesn’t work  
 
 ---
 
 ## Outline
 
-The availability of large datasets and massive computing power has led to a surge in the use of AI and ML-based tools to make decisions regarding humans. Applications of these tools span a variety of domains, such as healthcare (diagnosis and patient management), judicial and police settings (predicting recidivism and crime patterns), banking (creditworthiness), and recruitment (resume screening).
+The availability of large datasets and massive computing power has led to a surge in the use of AI and ML-based tools to make decisions regarding humans. Applications of these tools span a variety of domains, such as in healthcare for diagnosis and patient management, in judicial and police settings to predict recidivism and crime patterns, in banking to determine creditworthiness, and even in recruitment to screen resumes. Yet, despite the prevalence of possible use cases, AI and ML tools are also associated with, and sometimes are the source of, a myriad of social issues impacting their real-world usability, such as performance disparity across demographic groups, misrepresentation of minorities in data from generative models, uninterpretable decision processes, and misaligned objectives.
 
-Despite their widespread use, AI and ML tools are associated with — and sometimes are the source of — significant social issues that affect their real-world usability. These include performance disparities across demographic groups, misrepresentation of minorities in data from generative models, uninterpretable decision processes, and misaligned objectives.
 
-The field of **Responsible AI and Machine Learning** studies how we can harness the benefits of these technologies while avoiding documented and emerging harms. Research in this area proposes methods to investigate and mitigate these issues. Since many of these problems arise during interactions between AI systems, individuals, and institutions (such as courts and hospitals), the field is inherently interdisciplinary, requiring an understanding of both technical systems and social dynamics.
+The field of Responsible AI and ML essentially studies the conundrum of how we can harness the supposed benefits of these technologies while avoiding the harms that have been presently documented and are likely to arise in the future. Research in this field proposes methods to investigate and, wherever possible, mitigate the above issues associated with the usage of these technologies. Issues like AI-based discrimination and misalignment arise during interactions of AI and ML tools with individuals (e.g., in online spaces) and societal institutions (e.g., in courts and hospitals). Discovering and formalizing them inherently requires understanding both the internal workings of the AI/ML tools and the social dynamics of the communities and institutions impacted by them, making this field quite interdisciplinary.
+
 
 ### Course Objectives
 
-The purpose of this course is twofold:
-
-1. Introduce students to well-documented AI/ML harms arising in real-world local and global applications.
-2. Prepare students to apply general techniques to evaluate and mitigate future AI/ML-based harms in common societal domains.
+The purpose of this course is twofold: (a) to introduce students to well-documented AI/ML harms arising in real-world local and global applications, and (b) to prepare them to apply general techniques to evaluate and mitigate future AI/ML-based harms in common societal domains.
 
 ---
 
 ## Prerequisites
 
-Students are expected to have a general understanding of AI/ML basics, including topics in:
-- Probability
-- Statistics
-- Optimization  
-
-as they relate to the development of AI/ML systems.
+Students would be expected to have a general understanding of AI/ML basics, e.g., sufficient knowledge of topics in probability, statistics, and optimization, as they relate to the development of AI/ML systems.
 
 ---
 
 ## Topics and Schedule
 
-The course is divided into two parts:
-1. **Weeks 1–7:** Harms arising from flaws in the AI/ML development pipeline  
-2. **Weeks 9–14:** Issues arising when AI systems are deployed in institutional decision-making
+The course will introduce popular topics in the field of responsible AI from the perspective of the common real-world ethical and practical issues that have been extensively studied in this literature. The topics in the course will be divided into two sections: (i) harms that arise due to a flawed AI/ML development pipeline, which require us to pursue in-depth investigations into this pipeline (to be covered in Weeks 1--8); and (ii) issues that are encountered when AI in employed in institutions to assist/replace humans in existing decision-making setups, which require us to understand the role of AI in broader institutional settings (to be covered in Weeks 9--14). The set of topics that will be covered are listed below.
 
-### Weekly Breakdown
 
 - **Weeks 1 & 2:** Introduction — Biases, Misalignment, and Issues in Data Generation and Modeling
 - **Weeks 3 & 4:** Algorithmic Discrimination and Fairness
 - **Weeks 5 & 6:** Prediction, Causation, and Actionability
-- **Weeks 7 & 8:** ML Robustness and E
+- **Weeks 7 & 8:** ML Robustness and Explainability
+- **Weeks 9 & 10:** AI Alignment
+- **Weeks 11 & 12:** Human-in-the-Loop and Participatory AI
+- **Week 13:** AI and Social Welfare
 
+---
+
+## Evaluation
+
+Final grades will be based on:
+- **Weekly assignments:** ~30%
+- **Class project:** ~50%
+- **Class participation:** 20%
+
+---
+
+## Readings
+
+### Week 1: Introduction (Jan 2)
+
+**Optional Readings**
+1. *Socially Responsible AI Algorithms: Issues, Purposes, and Challenges* — Lu Cheng, Kush R. Varshney, Huan Liu (pp. 1–7)
+2. *Managing Extreme AI Risks Amid Rapid Progress* — Yoshua Bengio et al.
+
+---
+
+### Week 2: Data & Models (Jan 6 & 9)
+
+**Required Readings**
+1. *A Framework for Understanding Sources of Harm Throughout the Machine Learning Life Cycle* — Harini Suresh, John Guttag
+2. *Datasheets for Datasets* — Timnit Gebru et al. (pp. 1–8)
+
+**Optional Readings**
+1. *Anatomy of an AI System* — Kate Crawford, Vladan Joler
+2. *A Primer on Mitigating Gender Biases in LLMs* — Digital Futures Lab (pp. 5–18)
+
+---
