@@ -2,9 +2,9 @@
 layout: course
 ---
 
-# COL 8381/864: Special Topics in Responsible AI
+# COL 8381/864: Special Topics in AI
 
-## Course Overview
+## Responsible AI
 
 **Instructor:** Vijay Keswani  
 **Classes:** Tues-Fri 2.00-3.30 pm at LH 605  
