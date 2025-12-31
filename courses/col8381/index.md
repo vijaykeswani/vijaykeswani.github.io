@@ -2,9 +2,9 @@
 
 ## Course Overview
 
-**Instructor:** Vijay Keswani
-**Classes:** Tues-Fri 2.00-3.30 pm at LH 605
-**Office Hours:** Wed 2.00-4.00 pm at Bharti 418
+**Instructor:** Vijay Keswani  
+**Classes:** Tues-Fri 2.00-3.30 pm at LH 605  
+**Office Hours:** Wed 2.00-4.00 pm at Bharti 418  
 
 Sign up at <a href="https://calendly.com/vijaykeswani-slg/office-hours-30-min">this link</a> or email to set up another time if the above doesn’t work  
 
@@ -59,19 +59,6 @@ Final grades will be based on:
 ### Week 1: Introduction (Jan 2)
 
 **Optional Readings**
-1. *Socially Responsible AI Algorithms: Issues, Purposes, and Challenges* — Lu Cheng, Kush R. Varshney, Huan Liu (pp. 1–7)
-2. *Managing Extreme AI Risks Amid Rapid Progress* — Yoshua Bengio et al.
+1. *[Socially Responsible AI Algorithms: Issues, Purposes, and Challenges](https://arxiv.org/abs/2101.02032)* — Lu Cheng, Kush R. Varshney, Huan Liu (pp. 1–7)
+2. *[Managing Extreme AI Risks Amid Rapid Progress](https://www.science.org/doi/full/10.1126/science.adn0117)* — Yoshua Bengio et al.
 
----
-
-### Week 2: Data & Models (Jan 6 & 9)
-
-**Required Readings**
-1. *A Framework for Understanding Sources of Harm Throughout the Machine Learning Life Cycle* — Harini Suresh, John Guttag
-2. *Datasheets for Datasets* — Timnit Gebru et al. (pp. 1–8)
-
-**Optional Readings**
-1. *Anatomy of an AI System* — Kate Crawford, Vladan Joler
-2. *A Primer on Mitigating Gender Biases in LLMs* — Digital Futures Lab (pp. 5–18)
-
----
