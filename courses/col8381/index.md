@@ -1,3 +1,7 @@
+---
+layout: course
+---
+
 # COL 8381/864: Special Topics in Responsible AI
 
 ## Course Overview
