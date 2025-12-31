@@ -2,9 +2,9 @@
 
 ## Course Overview
 
-**Instructor: Vijay Keswani**  
-**Classes: Tues-Fri 2.00-3.30 pm at LH 605**  
-**Office Hours: Wed 2.00-4.00 pm at Bharti 418**
+**Instructor:** Vijay Keswani
+**Classes:** Tues-Fri 2.00-3.30 pm at LH 605
+**Office Hours:** Wed 2.00-4.00 pm at Bharti 418
 
 Sign up at <a href="https://calendly.com/vijaykeswani-slg/office-hours-30-min">this link</a> or email to set up another time if the above doesn’t work  
 
