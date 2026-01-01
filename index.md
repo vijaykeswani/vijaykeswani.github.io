@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Hi! I am an Assistant Professor in the Computer Science and Engineering department at the Indian Institute of Technology Delhi. My work studies problems related to data and tech ethics, algorithmic fairness, tech alignment, and community-focused AI development. Broadly, I am interested in the interactions between society and automation and in addressing various questions around the potentially harmful impacts of AI applications.
+Hi! I recently started as an Assistant Professor in the Computer Science and Engineering department at the Indian Institute of Technology Delhi. My research focuses on addressing problems related to data and tech ethics, algorithmic fairness, tech alignment, and community-focused AI development. Broadly, I am interested in the interactions between society and automation and in addressing various questions around the potentially harmful impacts of AI applications.
 
 Earlier, I was a Postdoctoral Associate, working with [Walter Sinnott-Armstrong](https://www.sinnott-armstrong.com/) and [Jana Schaich Borg](https://scholars.duke.edu/person/borg) at Duke University, and [Hoda Heidari](https://www.cs.cmu.edu/~hheidari/) and [Vincent Conitzer](http://www.cs.cmu.edu/~conitzer/) at Carnegie Mellon University. For this postdoc, I was affiliated with the [Social Science Research Institute](https://ssri.duke.edu/) at Duke, the [Duke Philosophy](https://philosophy.duke.edu/) department, and the [Kenan Institute of Ethics](https://kenan.ethics.duke.edu/).
 
