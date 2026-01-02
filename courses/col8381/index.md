@@ -66,4 +66,15 @@ Final grades will be based on:
 1. *[Socially Responsible AI Algorithms: Issues, Purposes, and Challenges](https://arxiv.org/abs/2101.02032)*. Lu Cheng, Kush R. Varshney, Huan Liu (pp. 1–7)
 2. *[Managing Extreme AI Risks Amid Rapid Progress](https://www.science.org/doi/full/10.1126/science.adn0117)*. Yoshua Bengio et al.
 
+### Week 2: Data & Models (Jan 6 & 9)
+
+**Required Readings**
+1. *[A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle](https://arxiv.org/pdf/1901.10002)*. Harini Suresh and John Guttag
+2. *[Datasheets for Datasets](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/01/1803.09010.pdf)*. Timnit Gebru et al. Pages 1--8
+3. *[A Primer on Mitigating Gender Biases in LLMs: Insights from the Indian Context](https://www.digitalfutureslab.in/publications/a-primer-on-mitigating-gender-biases-in-llms-insights-from-the-indian-context}{Digital Futures Lab)*. Digital Futures Lab. Pages 5--18
+ 
+
+**Optional Readings**
+1. *[Anatomy of an AI System](https://anatomyof.ai)*. Kate Crawford and Vladan Joler
+
 **Full reading list to be added soon**
