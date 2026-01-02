@@ -6,7 +6,7 @@ layout: course
 
 ## Responsible AI
 
-**Instructor:** [Vijay Keswani](mailto:vijaykeswani.slg@gmail.com)  
+**Instructor:** [Vijay Keswani](mailto:vkeswani@cse.iitd.ac.in)  
 **Classes:** Tues-Fri 2.00-3.30 pm at LH 605  
 **Office Hours:** Wed 2.00-4.00 pm at Bharti 418  
 
