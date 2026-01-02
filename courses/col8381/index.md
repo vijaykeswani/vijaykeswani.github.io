@@ -6,7 +6,7 @@ layout: course
 
 ## Responsible AI
 
-**Instructor:** [Vijay Keswani](mailto:vijaykeswani.slg@gmail.com)
+**Instructor:** [Vijay Keswani](mailto:vijaykeswani.slg@gmail.com)  
 **Classes:** Tues-Fri 2.00-3.30 pm at LH 605  
 **Office Hours:** Wed 2.00-4.00 pm at Bharti 418  
 
@@ -63,7 +63,7 @@ Final grades will be based on:
 ### Week 1: Introduction (Jan 2)
 
 **Optional Readings**
-1. *[Socially Responsible AI Algorithms: Issues, Purposes, and Challenges](https://arxiv.org/abs/2101.02032)* — Lu Cheng, Kush R. Varshney, Huan Liu (pp. 1–7)
-2. *[Managing Extreme AI Risks Amid Rapid Progress](https://www.science.org/doi/full/10.1126/science.adn0117)* — Yoshua Bengio et al.
+1. *[Socially Responsible AI Algorithms: Issues, Purposes, and Challenges](https://arxiv.org/abs/2101.02032)*. Lu Cheng, Kush R. Varshney, Huan Liu (pp. 1–7)
+2. *[Managing Extreme AI Risks Amid Rapid Progress](https://www.science.org/doi/full/10.1126/science.adn0117)*. Yoshua Bengio et al.
 
 **Full reading list to be added soon**
