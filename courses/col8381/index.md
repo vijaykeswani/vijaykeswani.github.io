@@ -71,7 +71,7 @@ Final grades will be based on:
 **Required Readings**
 1. *[A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle](https://arxiv.org/pdf/1901.10002)*. Harini Suresh and John Guttag
 2. *[Datasheets for Datasets](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/01/1803.09010.pdf)*. Timnit Gebru et al. Pages 1--8
-3. *[A Primer on Mitigating Gender Biases in LLMs: Insights from the Indian Context](https://www.digitalfutureslab.in/publications/a-primer-on-mitigating-gender-biases-in-llms-insights-from-the-indian-context}{Digital Futures Lab)*. Digital Futures Lab. Pages 5--18
+3. *[A Primer on Mitigating Gender Biases in LLMs: Insights from the Indian Context](https://www.digitalfutureslab.in/publications/a-primer-on-mitigating-gender-biases-in-llms-insights-from-the-indian-context)*. Digital Futures Lab. Pages 5--18
  
 
 **Optional Readings**
