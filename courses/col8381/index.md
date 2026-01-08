@@ -77,4 +77,17 @@ Final grades will be based on:
 **Optional Readings**
 1. *[Anatomy of an AI System](https://anatomyof.ai)*. Kate Crawford and Vladan Joler
 
-**Full reading list to be added soon**
+
+### Week 3: Algorithmic Fairness (Jan 13 & 16)
+
+**Required Readings**
+1. *[Fairness in Machine Learning](https://fairmlbook.org/pdf/fairmlbook.pdf)* (Chapters 3 & 4). Solon Barocas, Moritz Hardt, Arvind Narayanan
+2. *[Fairness Constraints: Mechanisms for Fair Classification](https://proceedings.mlr.press/v54/zafar17a.html)*. Muhammad Bilal Zafar, Isabel Valera, Manuel Gomez Rogriguez, Krishna P. Gummadi 
+
+**Optional Readings**
+1. *[The Long History of Algorithmic Fairness](https://www.phenomenalworld.org/analysis/long-history-algorithmic-fairness)*. Rodrigo Ochigame
+2. *[Why Don’t Generative AI Models Understand Caste?](https://www.medianama.com/2025/10/223-ai-models-caste-india)*. Medianama
+3. *[Fairness in Machine Learning: Lessons from Political Philosophy](https://proceedings.mlr.press/v81/binns18a/binns18a.pdf)*. Reuben Binns
+
+
+
