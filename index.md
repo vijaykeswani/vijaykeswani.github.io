@@ -9,7 +9,7 @@ Earlier, I was a Postdoctoral Associate, working with [Walter Sinnott-Armstrong]
 
 I received my Ph.D. from the [Department of Statistics and Data Science](https://statistics.yale.edu/) at Yale University, where I was advised by [Elisa Celis](https://datascienceethics.org/elisacelis/). While at Yale, I was a Resident Fellow at the Information Society Project (ISP) at Yale Law School from 2022-2023 and a 2022 Policy Fellow at the Yale Institute for Social and Policy Studies (ISPS). Prior to that, I spent two years at École Polytechnique Fédérale de Lausanne (EPFL). I completed my Bachelor's and Master's degrees in Computer Science and Engineering at the Indian Institute of Technology, Kanpur, where I worked with [Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
-I am teaching a [Special Topics course on Responsible AI](https://vijaykeswani.github.io/courses/col8381/) this semester. If you are a student at IIT Delhi, do attend the course or check out the course content if you wish to work with me. For folks in industry and/or local organizations, please reach out discuss or collaborate on any problems related to responsible AI.</b>
+I am teaching a [Special Topics course on Responsible AI](https://vijaykeswani.github.io/courses/col8381/) this semester. If you are a student at IIT Delhi, do attend the course or check out the course content if you wish to work with me. For folks in industry and/or local organizations, please reach out directly to discuss or collaborate on any problems related to responsible AI.
 
 ### Publications, Preprints, and Workshop Papers
 
