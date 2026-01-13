@@ -3,13 +3,13 @@ layout: default
 ---
 
 
-Hi! I recently started as an Assistant Professor in the Computer Science and Engineering department at the Indian Institute of Technology Delhi. My research focuses on addressing problems related to data and tech ethics, algorithmic fairness, tech alignment, and community-focused AI development. Broadly, I am interested in the interactions between society and automation and in addressing various questions around the potentially harmful impacts of AI applications.
+Hi! I recently started as an Assistant Professor in the [Computer Science and Engineering department](https://homecse.iitd.ac.in/) at the [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). My research focuses on addressing problems related to data and tech ethics, algorithmic fairness, tech alignment, and community-focused AI development. Broadly, I am interested in the interactions between society and automation and in addressing various questions around the potentially harmful impacts of AI applications.
 
 Earlier, I was a Postdoctoral Associate, working with [Walter Sinnott-Armstrong](https://www.sinnott-armstrong.com/) and [Jana Schaich Borg](https://scholars.duke.edu/person/borg) at Duke University, and [Hoda Heidari](https://www.cs.cmu.edu/~hheidari/) and [Vincent Conitzer](http://www.cs.cmu.edu/~conitzer/) at Carnegie Mellon University. For this postdoc, I was affiliated with the [Social Science Research Institute](https://ssri.duke.edu/) at Duke, the [Duke Philosophy](https://philosophy.duke.edu/) department, and the [Kenan Institute of Ethics](https://kenan.ethics.duke.edu/).
 
 I received my Ph.D. from the [Department of Statistics and Data Science](https://statistics.yale.edu/) at Yale University, where I was advised by [Elisa Celis](https://datascienceethics.org/elisacelis/). While at Yale, I was a Resident Fellow at the Information Society Project (ISP) at Yale Law School from 2022-2023 and a 2022 Policy Fellow at the Yale Institute for Social and Policy Studies (ISPS). Prior to that, I spent two years at École Polytechnique Fédérale de Lausanne (EPFL). I completed my Bachelor's and Master's degrees in Computer Science and Engineering at the Indian Institute of Technology, Kanpur, where I worked with [Rajat Mittal](https://cse.iitk.ac.in/users/rmittal).
 
-<b>Do reach out if you wish to discuss or collaborate on any problems related to responsible AI.</b>
+I am teaching a [Special Topics course on Responsible AI](https://vijaykeswani.github.io/courses/col8381/) this semester. If you are a student at IIT Delhi, do attend the course or check out the course content if you wish to work with me. For folks in industry and/or local organizations, please reach out discuss or collaborate on any problems related to responsible AI.</b>
 
 ### Publications, Preprints, and Workshop Papers
 
