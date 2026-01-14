@@ -93,12 +93,12 @@ Final grades will be based on:
 
 **Required Readings**
 1. *[Fair prediction with disparate impact: A study of bias in recidivism prediction instruments](https://arxiv.org/abs/1703.00056)*. Alexandra Chouldechova
-2. *[Delayed Impact of Fair Machine Learning](https://arxiv.org/abs/1803.04383)*. Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt
-3. *[Re-imagining Algorithmic Fairness in India and Beyond](https://arxiv.org/abs/2101.09995)*. Nithya Sambasivan, Erin Arnesen, Ben Hutchinson, Tulsee Doshi, Vinodkumar Prabhakaran
+2. *[Re-imagining Algorithmic Fairness in India and Beyond](https://arxiv.org/abs/2101.09995)*. Nithya Sambasivan, Erin Arnesen, Ben Hutchinson, Tulsee Doshi, Vinodkumar Prabhakaran
 
 **Optional Readings**
 1. *[Addressing Strategic Manipulation Disparities in Fair Classification](https://arxiv.org/abs/2205.10842)*. Vijay Keswani, L. Elisa Celis
 2. *[What's Sex Got To Do With Fair Machine Learning?](https://arxiv.org/abs/2006.01770)*. Lily Hu, Issa Kohler-Hausmann
+3. *[Delayed Impact of Fair Machine Learning](https://arxiv.org/abs/1803.04383)*. Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt
 
 
 
