@@ -100,5 +100,15 @@ Final grades will be based on:
 2. *[What's Sex Got To Do With Fair Machine Learning?](https://arxiv.org/abs/2006.01770)*. Lily Hu, Issa Kohler-Hausmann
 3. *[Delayed Impact of Fair Machine Learning](https://arxiv.org/abs/1803.04383)*. Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt
 
+### Week 5: Causation and Actionability (Jan 27 & 30)
+
+**Required Readings**
+1. *The Book of Why*, Chapter 1 "The Ladder of Causation". Judea Pearl
+2. *[Actionable Recourse in Linear Classification](https://arxiv.org/abs/1809.06514)*. Berk Ustun, Alexander Spangher, Yang Liu
+
+**Optional Readings**
+1. *[Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://dl.acm.org/doi/abs/10.1145/3442188.3445899)*. Amir-Hossein Karimi, Bernhard Schölkopf, Isabel Valera
+2. *[Strategic Classification is Causal Modeling in Disguise](https://proceedings.mlr.press/v119/miller20b)*. John Miller, Smitha Milli, Moritz Hardt
+
 
 
