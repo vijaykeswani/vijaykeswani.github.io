@@ -103,7 +103,7 @@ Final grades will be based on:
 ### Week 5: Causation and Actionability (Jan 27 & 30)
 
 **Required Readings**
-1. *The Book of Why*, Chapter 1 "The Ladder of Causation". Judea Pearl
+1. *The Book of Why*, Chapter 1 "The Ladder of Causation". Judea Pearl, Dana Mackenzie
 2. *[Actionable Recourse in Linear Classification](https://arxiv.org/abs/1809.06514)*. Berk Ustun, Alexander Spangher, Yang Liu
 
 **Optional Readings**
