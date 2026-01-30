@@ -110,5 +110,17 @@ Final grades will be based on:
 1. *[Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://dl.acm.org/doi/abs/10.1145/3442188.3445899)*. Amir-Hossein Karimi, Bernhard Schölkopf, Isabel Valera
 2. *[Strategic Classification is Causal Modeling in Disguise](https://proceedings.mlr.press/v119/miller20b)*. John Miller, Smitha Milli, Moritz Hardt
 
+### Week 6: Actionability and Social Choice (Feb 3 & 6)
+
+**Required Readings**
+1. *[The philosophical basis of algorithmic recourse](https://dl.acm.org/doi/abs/10.1145/3351095.3372876)*. Suresh Venkatasubramanian, Mark Alfano
+2. *[Computational Social Choice: The First Four Centuries](https://dl.acm.org/doi/pdf/10.1145/2043236.2043249)*, Ariel D. Procaccia
+
+**Optional Readings**
+1. *[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://digitalgovernmenthub.org/wp-content/uploads/2023/08/predictive_optimiz.pdf)*. Angelina Wang, Sayash Kapoor, Solon Barocas, and Arvind Narayanan
+2. *[The computational difficulty of manipulating an election](https://link.springer.com/article/10.1007/BF00295861)*. J. J. Bartholdi III, C. A. Tovey & M. A. Trick 
+
+
+
 
 
