@@ -13,13 +13,13 @@ I am teaching a [Special Topics course on Responsible AI](https://vijaykeswani.g
 
 ### Publications, Preprints, and Workshop Papers
 
+*   Cyrus Cousins, Vijay Keswani, Vincent Conitzer, Hoda Heidari, Jana Schaich Borg, Walter Sinnott-Armstrong\\
+    <b> Towards Cognitively-Faithful Decision-Making Models to Improve AI Alignment</b>\\
+    ICLR 2026. [arxiv](https://arxiv.org/abs/2509.04445)
+
 *   Vijay Keswani, Cyrus Cousins, Breanna Nguyen, Vincent Conitzer, Hoda Heidari, Jana Schaich Borg, Walter Sinnott-Armstrong\\
     <b> Moral Change or Noise? On Problems of Aligning AI With Temporally Unstable Human Feedback</b>\\
     AAAI 2026 (Alignment Track). [arxiv](https://arxiv.org/pdf/2511.10032)
-
-*   Cyrus Cousins, Vijay Keswani, Vincent Conitzer, Hoda Heidari, Jana Schaich Borg, Walter Sinnott-Armstrong\\
-    <b> Towards Cognitively-Faithful Decision-Making Models to Improve AI Alignment</b>\\
-    Working paper. [arxiv](https://arxiv.org/abs/2509.04445)
 
 *   Vijay Keswani, Vincent Conitzer, Walter Sinnott-Armstrong, Breanna K. Nguyen, Hoda Heidari, Jana Schaich Borg\\
     <b> Can AI Model the Complexities of Human Moral Decision-Making? A Qualitative Study of Kidney Allocation Decisions</b>\\
