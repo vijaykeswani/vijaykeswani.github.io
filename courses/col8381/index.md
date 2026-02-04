@@ -120,6 +120,15 @@ Final grades will be based on:
 1. *[Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy](https://digitalgovernmenthub.org/wp-content/uploads/2023/08/predictive_optimiz.pdf)*. Angelina Wang, Sayash Kapoor, Solon Barocas, and Arvind Narayanan
 2. *[The computational difficulty of manipulating an election](https://link.springer.com/article/10.1007/BF00295861)*. J. J. Bartholdi III, C. A. Tovey & M. A. Trick 
 
+### Week 7: Interpretability (Feb 10 & 13)
+
+**Required Readings**
+1. *[Interpretable Machine Learning](https://dl.acm.org/doi/abs/10.1145/3351095.3372876)*. (Chapters 2, 3, 4, 6, 7, 9). Christoph Molnar
+   
+**Optional Readings**
+1. *[ML interpretability: Simple isn't easy](https://www.sciencedirect.com/science/article/pii/S0039368123001723)*. Tim Räz
+2. *[Interpretable Machine Learning](https://dl.acm.org/doi/abs/10.1145/3351095.3372876)*. (Chapters 8, 10, 11). Christoph Molnar
+
 
 
 
