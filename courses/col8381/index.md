@@ -4,11 +4,11 @@ layout: course
 
 # COL 8381/864: Special Topics in AI
 
-## Responsible AI
+## Responsible AI (2025-2026 Semester 2)
 
 **Instructor:** [Vijay Keswani](mailto:vkeswani@cse.iitd.ac.in)  
 **Classes:** Tues-Fri 2.00-3.30 pm at LH 605  
-**Office Hours:** Wed 2.00-4.00 pm at Bharti 418  
+**Office Hours:** Wed 2.00-4.00 pm at Bharti 418
 
 Sign up at <a href="https://calendly.com/vijaykeswani-slg/office-hours-30-min">this link</a> for office hours or email to set up another time if the above doesn’t work  
 
@@ -132,8 +132,9 @@ Final grades will be based on:
 ### Week 8: Challenges of Interpretability (Feb 17)
    
 **Optional Readings**
-1. *[Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x)*. Cynthia Rudin
-2. *[“If it is easy to understand, then it will have value”: Examining Perceptions of Explainable AI with Community Health Workers in Rural India](https://www.adityavashistha.com/uploads/2/0/8/0/20800650/xxai-chi-2024.pdf)*. CT Okolo, D Agarwal, N Dell, A Vashistha
+1. *[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)*. (Chapters 13--18). Christoph Molnar
+2. *[Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x)*. Cynthia Rudin
+3. *[“If it is easy to understand, then it will have value”: Examining Perceptions of Explainable AI with Community Health Workers in Rural India](https://www.adityavashistha.com/uploads/2/0/8/0/20800650/xxai-chi-2024.pdf)*. CT Okolo, D Agarwal, N Dell, A Vashistha
 
 
 
