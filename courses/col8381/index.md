@@ -129,6 +129,12 @@ Final grades will be based on:
 1. *[ML interpretability: Simple isn't easy](https://www.sciencedirect.com/science/article/pii/S0039368123001723)*. Tim Räz
 2. *[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)*. (Chapters 8, 10, 11). Christoph Molnar
 
+### Week 8: Challenges of Interpretability (Feb 17)
+   
+**Optional Readings**
+1. *[Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x)*. Cynthia Rudin
+2. *[“If it is easy to understand, then it will have value”: Examining Perceptions of Explainable AI with Community Health Workers in Rural India](https://www.adityavashistha.com/uploads/2/0/8/0/20800650/xxai-chi-2024.pdf)*. CT Okolo, D Agarwal, N Dell, A Vashistha
+
 
 
 
