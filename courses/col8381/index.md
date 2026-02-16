@@ -4,7 +4,8 @@ layout: course
 
 # COL 8381/864: Special Topics in AI
 
-## Responsible AI (2025-2026 Semester 2)
+## Responsible AI 
+2025-2026 Semester 2
 
 **Instructor:** [Vijay Keswani](mailto:vkeswani@cse.iitd.ac.in)  
 **Classes:** Tues-Fri 2.00-3.30 pm at LH 605  
