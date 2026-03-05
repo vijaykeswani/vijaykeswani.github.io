@@ -137,7 +137,13 @@ Final grades will be based on:
 2. *[Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x)*. Cynthia Rudin
 3. *[“If it is easy to understand, then it will have value”: Examining Perceptions of Explainable AI with Community Health Workers in Rural India](https://www.adityavashistha.com/uploads/2/0/8/0/20800650/xxai-chi-2024.pdf)*. CT Okolo, D Agarwal, N Dell, A Vashistha
 
+### Week 9: Robustness (Mar 10 & 13)
+   
+**Required Readings**
+1. *[Machine Learning Security against Data Poisoning: Are We There Yet?](https://arxiv.org/pdf/2204.05986)*. Antonio Emanuele Cinà, Kathrin Grosse, Ambra Demontis, Battista Biggio, Fabio Roli, Marcello Pelillo
 
+**Optional Readings**
+1. *[Tree of Attacks: Jailbreaking Black-Box LLMs Automatically](https://arxiv.org/abs/2312.02119)*. Anay Mehrotra, Manolis Zampetakis, Paul Kassianik, Blaine Nelson, Hyrum Anderson, Yaron Singer, Amin Karbasi
 
 
 
