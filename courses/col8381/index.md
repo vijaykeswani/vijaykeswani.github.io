@@ -145,7 +145,7 @@ Final grades will be based on:
 **Optional Readings**
 1. *[Tree of Attacks: Jailbreaking Black-Box LLMs Automatically](https://arxiv.org/abs/2312.02119)*. Anay Mehrotra, Manolis Zampetakis, Paul Kassianik, Blaine Nelson, Hyrum Anderson, Yaron Singer, Amin Karbasi
 
-### Week 10: Robustness (Mar 17 & 20)
+### Week 10: Alignment (Mar 17 & 20)
    
 **Required Readings**
 1. *[AI Alignment: A Comprehensive Survey](https://arxiv.org/pdf/2310.19852)*. (Pages 4--33). Jiaming Ji et al.
