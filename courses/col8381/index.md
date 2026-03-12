@@ -145,5 +145,15 @@ Final grades will be based on:
 **Optional Readings**
 1. *[Tree of Attacks: Jailbreaking Black-Box LLMs Automatically](https://arxiv.org/abs/2312.02119)*. Anay Mehrotra, Manolis Zampetakis, Paul Kassianik, Blaine Nelson, Hyrum Anderson, Yaron Singer, Amin Karbasi
 
+### Week 10: Robustness (Mar 17 & 20)
+   
+**Required Readings**
+1. *[AI Alignment: A Comprehensive Survey](https://arxiv.org/pdf/2310.19852)*. (Pages 4--33). Jiaming Ji et al.
+2. *[Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)*. Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn
+3. *[Concrete Problems in AI Safety](https://arxiv.org/pdf/1606.06565)*. Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, Dan Mané
+
+**Optional Readings**
+1. *[The AI Alignment Problem: Why It’s Hard, and Where to Start](https://intelligence.org/files/AlignmentHardStart.pdf)*. Eliezer Yudkowsky
+
 
 
