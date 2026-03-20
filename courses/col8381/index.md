@@ -155,5 +155,15 @@ Final grades will be based on:
 **Optional Readings**
 1. *[The AI Alignment Problem: Why It’s Hard, and Where to Start](https://intelligence.org/files/AlignmentHardStart.pdf)*. Eliezer Yudkowsky
 
+### Week 11: Alignment contd. (Mar 24 & 27)
+   
+**Required Readings**
+1. *[Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)*. Bai et al.
+2. *[Deliberative Alignment: Reasoning Enables Safer Language Models](https://arxiv.org/abs/2412.16339)*. Guan et al.
+3. *[The Alignment Problem from a Deep Learning Perspective](https://arxiv.org/pdf/2209.00626)*. Richard Ngo, Lawrence Chan, Sören Mindermann
+
+
+
+
 
 
