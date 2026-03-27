@@ -162,6 +162,16 @@ Final grades will be based on:
 2. *[Deliberative Alignment: Reasoning Enables Safer Language Models](https://arxiv.org/abs/2412.16339)*. Guan et al.
 3. *[The Alignment Problem from a Deep Learning Perspective](https://arxiv.org/pdf/2209.00626)*. Richard Ngo, Lawrence Chan, Sören Mindermann
 
+### Week 12: Alignment Challenges (Apr 7 & 10)
+   
+**Required Readings**
+1. *[Artificial Intelligence, Values, and Alignment](https://link.springer.com/article/10.1007/s11023-020-09539-2)*. Iason Gabriel
+2. *[Distributional Preference Learning: Understanding and Accounting for Hidden Context in RLHF](https://arxiv.org/abs/2312.08358)*. Anand Siththaranjan, Cassidy Laidlaw, Dylan Hadfield-Menell
+
+**Optional Readings**
+1. *[Beyond Preferences in AI Alignment](https://link.springer.com/article/10.1007/s11098-024-02249-w)*. Tan Zhi-Xuan, Micah Carroll, Matija Franklin & Hal Ashton
+2. *[Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2307.15217)*. Casper et al.
+3. *[Can AI Model the Complexities of Human Moral Decision-Making? A Qualitative Study of Kidney Allocation Decisions](https://arxiv.org/abs/2503.00940)*. Vijay Keswani, Vincent Conitzer, Walter Sinnott-Armstrong, Breanna K. Nguyen, Hoda Heidari, Jana Schaich Borg
 
 
 
