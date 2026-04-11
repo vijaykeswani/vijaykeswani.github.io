@@ -173,6 +173,15 @@ Final grades will be based on:
 2. *[Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2307.15217)*. Casper et al.
 3. *[Can AI Model the Complexities of Human Moral Decision-Making? A Qualitative Study of Kidney Allocation Decisions](https://arxiv.org/abs/2503.00940)*. Vijay Keswani, Vincent Conitzer, Walter Sinnott-Armstrong, Breanna K. Nguyen, Hoda Heidari, Jana Schaich Borg
 
+### Week 13: Local Applications (Apr 14 & 17)
+   
+**Required Readings**
+1. *[Artificial intelligence policy in India: a framework for engaging the limits of data-driven decision-making](https://royalsocietypublishing.org/rsta/article/376/2133/20180087/115650/Artificial-intelligence-policy-in-India-a)*. Vidushi Marda
+2. *[Seeing Like an Infrastructure: Low-resolution Citizens and the Aadhaar Identification Project](https://dl.acm.org/doi/abs/10.1145/3476056)*. Ranjit Singh, Steven Jackson
+
+**Optional Readings**
+1. *[Enough With “Human-AI Collaboration”](https://dl.acm.org/doi/pdf/10.1145/3544549.3582735)*. Advait Sarkar
+
 
 
 
