@@ -2,7 +2,7 @@
 layout: projects
 ---
 
-As the Holi semester at IIT Delhi draws to a close, I wanted to take a moment to express my appreciation for the students in my seminar course on Responsible AI.
+As the Holi semester comes to a close, I wanted to take a moment to express my appreciation for the students in my seminar course on Responsible AI.
 
 The backdrop of this course is something very familiar to all of us. We are living at a time, where more than ever before, we are continuously grappling with questions on how to engage with AI systems and what kind of role we envision AI technologies playing in our collective futures. It is in no way an exaggeration to say that questions on what constitutes Responsible AI development and deployment are at the center of this conversation. 
 
