@@ -40,5 +40,3 @@ Finally, many played with current LLM methods, assessing the methods we undertak
 All of these projects deepen our understanding of AI and our interactions with it. But, from the perspective of the objectives of our course, I'd like to believe that they go further: these projects not only improve our understanding of the societal impacts of AI, but also resulted in tools and research that can inform others. 
  
 Please do [reach out to me](mailto:vkeswani@iitd.ac.in) or to the students directly if anything here catches your interest :) 
-
-- Vijay
