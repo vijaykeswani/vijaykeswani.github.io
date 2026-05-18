@@ -37,6 +37,8 @@ Finally, many played with current LLM methods, assessing the methods we undertak
 - Dhruv Pawar and Anurag Tiwari studied the efficacy of self-correction methods in developing safe LLM models, moving towards the broader goal of figuring out when is self-correction an effective intervention for AI alignment.
 - Pulkit Sheoran and Tanisha Bhaskar assessed hallucination rates of LLMs across different domains, demonstrating that chances of LLM hallucination are higher for interactions related to current affairs.
 
-All of these projects deepen our understanding of AI and our interactions with it. But, from the perspective of the objectives of our course, they go further: these projects not only improve our understanding of the societal impacts of AI, but also resulted in tools and research that can inform others. 
+All of these projects deepen our understanding of AI and our interactions with it. But, from the perspective of the objectives of our course, I'd like to believe that they go further: these projects not only improve our understanding of the societal impacts of AI, but also resulted in tools and research that can inform others. 
  
 Please do [reach out to me](mailto:vkeswani@iitd.ac.in) or to the students directly if anything here catches your interest :) 
+
+- Vijay
