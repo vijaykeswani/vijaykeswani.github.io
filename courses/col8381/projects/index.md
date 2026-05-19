@@ -8,7 +8,7 @@ The backdrop of this course is something very familiar to all of us. We are livi
 
 The primary purpose of this course was to provide an overview of the technical apparatus involved in conducting research on Responsible AI. But even with the technical focus, we pursued a multidisciplinary inquiry on this topic. Topics covered included influential works on algorithmic fairness, actionability, causation, robustness, interpretability, explainability, and alignment. These were complemented and contextualized by scholarship from economics, philosophy, political science, law, sociology, and cognitive science, with the aim of having holistic discussions on what constitutes Responsible AI and how we might get there.
 
-This piece intends to highlight the excellent work students produced for their course projects. Then aim is both to showcase what they accomplished and to invite feedback, suggestions, and dialogue from the broader academic community. With this context, below are the major themes that emerged across these projects.
+Here I intend to highlight the excellent work students produced for their course projects. The aim is both to showcase what they accomplished and to invite feedback, suggestions, and dialogue from the broader academic community. With this context, below are the major themes that emerged across these projects.
 
 #### Tools and Resources for Public Awareness
 Several built tools, websites, and demos designed to educate people about the impacts of AI and help them reclaim agency over aspects of these systems that are often only quasi-consensual in nature
