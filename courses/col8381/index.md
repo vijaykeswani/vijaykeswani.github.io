@@ -7,6 +7,8 @@ layout: course
 ## Responsible AI 
 2025-2026 Semester 2
 
+**Post-course completion update:** A short summary of all student projects is available [here](https://vijaykeswani.github.io/courses/col8381/projects/). Thanks to everyone who took part in the course and made it a success :)
+
 **Instructor:** [Vijay Keswani](mailto:vkeswani@cse.iitd.ac.in)  
 **Classes:** Tues-Fri 2.00-3.30 pm at LH 605  
 **Office Hours:** Wed 2.00-4.00 pm at Bharti 418
