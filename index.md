@@ -7,11 +7,17 @@ Hi! I recently started as an Assistant Professor in the [Computer Science and En
 
 Earlier, I was a Postdoctoral Associate, working with [Walter Sinnott-Armstrong](https://www.sinnott-armstrong.com/) and [Jana Schaich Borg](https://scholars.duke.edu/person/borg) at Duke University, and [Hoda Heidari](https://www.cs.cmu.edu/~hheidari/) and [Vincent Conitzer](http://www.cs.cmu.edu/~conitzer/) at Carnegie Mellon University. For this postdoc, I was affiliated with the [Social Science Research Institute](https://ssri.duke.edu/) at Duke, the [Duke Philosophy](https://philosophy.duke.edu/) department, and the [Kenan Institute of Ethics](https://kenan.ethics.duke.edu/).
 
-I received my Ph.D. from the [Department of Statistics and Data Science](https://statistics.yale.edu/) at Yale University, where I worked with [Elisa Celis](https://datascienceethics.org/elisacelis/). While at Yale, I was a Resident Fellow at the Information Society Project (ISP) at Yale Law School from 2022-2023 and a 2022 Policy Fellow at the Yale Institute for Social and Policy Studies (ISPS). Prior to that, I spent time at École Polytechnique Fédérale de Lausanne (EPFL) and Indian Institute of Technology, Kanpur.
+I received my Ph.D. from the [Department of Statistics and Data Science](https://statistics.yale.edu/) at Yale University, where I worked with [Elisa Celis](https://datascienceethics.org/elisacelis/). While at Yale, I was a Resident Fellow at the Information Society Project (ISP) at Yale Law School from 2022-2023 and a 2022 Policy Fellow at the Yale Institute for Social and Policy Studies (ISPS). Prior to that, I spent time at École Polytechnique Fédérale de Lausanne (EPFL) and the Indian Institute of Technology, Kanpur.
 
-I am currently teaching a [Special Topics course on Responsible AI](https://vijaykeswani.github.io/courses/col8381/) this semester. If you are a student at IIT Delhi, do attend the course or check out the course content first if you wish to work with me. For folks outside academia, in non-profits, industry, or other organizations, please feel free to reach out directly to chat or collaborate on any problems related to responsible AI.
+If you are a student at IIT Delhi, happy to chat about potential projects; but do check out the themes covered in my courses below first to get a sense of the topics I am interested in. For non-IITD students reaching out with internship or assistantship requests, it's unlikely I will be able to reply, given the volume of such emails. I would recommend checking out the [IITD PG programs](https://home.iitd.ac.in/pg-admissions.php) if you're interested in research and you can mention my name in your MS/PhD application if you wish to work with me. 
+
+For folks outside academia, in non-profits, industry, or other organizations working on AI ethics, please feel free to reach out directly to chat or collaborate on any problems related to responsible AI.
 
 ### Publications, Preprints, and Workshop Papers
+
+*   Vijay Keswani, Breanna Nguyen, Cyrus Cousins, Vincent Conitzer, Jana Schaich Borg, Walter Sinnott-Armstrong\\
+    <b> We Need Practical AI Alignment Methods to Mirror Human Reasoning</b>\\
+    ICML 2026. [openreview](https://openreview.net/pdf?id=bKHpEIZQAi)
 
 *   Cyrus Cousins, Vijay Keswani, Vincent Conitzer, Hoda Heidari, Jana Schaich Borg, Walter Sinnott-Armstrong\\
     <b> Towards Cognitively-Faithful Decision-Making Models to Improve AI Alignment</b>\\
@@ -105,6 +111,10 @@ I am currently teaching a [Special Topics course on Responsible AI](https://vija
 *   L. Elisa Celis, Vijay Keswani, Damian Straszak, Amit Deshpande, Tarun Kathuria, Nisheeth K. Vishnoi\\
     <b>Fair and Diverse DPP-based Data Summarization</b>\\
     ICML 2018. [arxiv](https://arxiv.org/abs/1802.04023)
+
+### Teaching
+
+*    2025/2026 Semester II: [Special Topics course on Responsible AI](https://vijaykeswani.github.io/courses/col8381/)
 
 ### Ph.D. Thesis
 
