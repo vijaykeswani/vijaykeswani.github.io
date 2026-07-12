@@ -31,7 +31,7 @@ And another for English -> Urdu -> English.
 
 ### Is this a problem with gender-neutral Indian languages only?
 
-It was initially thought suggested that this problem is specific to translation between gender-neutral and gender-specific languages. After all that’s where there is missing context in translation that these automated tools choose to fill with syereortpical information right? 
+It was initially suggested that this problem is specific to translation between gender-neutral and gender-specific languages. After all that’s where there is missing context in translation that these automated tools choose to fill with syereortpical information right? 
 
 However, even from the simple examples above, the problem of gender bias in translation appear much more pervasive and complex, and extends generally to other “technologically under-represented” languages (this category overlaps with “low resource” languages, but that term is vague and seems to only represent the resources of those who hold the power of making models). 
 
@@ -48,10 +48,10 @@ So the technical issues don’t seem limited to gender-neutral languages. Wherev
 
 And, by the way, this is not just an issue with Google Translate. Bhashini, which promises to improves language modeling capabilities for Indian languages, reproduces the gender biases shown in most examples presented above. 
 
-![Bh_example](./examples/bhashini_example1.png)
+![Bh_example](https://raw.githubusercontent.com/vijaykeswani/vijaykeswani.github.io/refs/heads/master/blog/examples/bhashini_example1.png)
 
 
-### Also its not just a technical problem
+### Also this is not just a technical problem
 
 There is visibility meta-bias to this issue; fixes get prioritised for languages whose speakers have the loudest voices in spaces that technology companies pay attention to. Google Translate was quick to address gender bias for many European languages following the viral tweet. Yet the very same examples of gender bias continue to exist for Indian languages. Interestingly, we are seeing another reproduction of what this visibility bias.
 
