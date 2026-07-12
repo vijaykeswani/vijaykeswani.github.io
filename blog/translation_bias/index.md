@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: translation
 ---
 
 # Same Bias, Different Treatment: Gender Stereotypes in Machine Translation for Indian Languages
