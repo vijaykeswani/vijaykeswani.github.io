@@ -6,9 +6,9 @@ layout: projects
 
 Advances in language modeling have significantly impacted machine translation capabilities, improving both the quality and accessibility of translation services across hundreds of languages. Yet, frustratingly, gender biases in translation continue to be a seemingly unsolved and underattended problem.
 
-What has been known for a while now is that [translation services frequently introduce gender stereotypes](https://www.cell.com/patterns/fulltext/S2666-3899(25)00105-9) through their choice of pronouns, verb forms, and noun inflections. This is true across language families, translation directions, and model architectures, from early statistical systems to today's large neural models. Translation services seem to strongly favor a "traditional persona"; doctors are men by default, nurses women, engineers are masculine, and secretaries are feminine. 
+What has been known for a while now is that [translation services frequently introduce gender stereotypes](https://www.cell.com/patterns/fulltext/S2666-3899(25)00105-9) through their choice of pronouns, verb forms, and noun inflections. This is true across language families, translation directions, and model architectures, from early statistical systems to today's large neural models. Translation services seem to strongly favor a "traditional persona"; to them, doctors are men by default, nurses women, engineers are masculine, and secretaries are feminine. 
 
-But I thought of writing about some of the examples I have been seeing of this phenomeon with Indian languages. And let me start by acknowledging the wonderful research that many have already done on gender bias in Indian language tech; see [this paper](https://dl.acm.org/doi/abs/10.1145/3600211.3604672), [this one](https://link.springer.com/article/10.1007/s00521-019-04144-6), and [this one too](https://dl.acm.org/doi/abs/10.1145/3630106.3659017). 
+While gender bias in translation is somewhat well-known, I thought of writing about some of the examples I have been seeing of this phenomeon with Indian languages. And let me start by acknowledging the wonderful research that many have already done on gender bias in Indian language tech; see [this paper](https://dl.acm.org/doi/abs/10.1145/3600211.3604672), [this one](https://link.springer.com/article/10.1007/s00521-019-04144-6), and [this one too](https://dl.acm.org/doi/abs/10.1145/3630106.3659017). My goal with writing this note is to simply document some of the more curious examples of translation biases I have been coming across with Indian languages and, in doing so, maybe complement the research in this space.
 
 ### Gender Stereotypes in Translation from Indian Languages
 
@@ -18,15 +18,15 @@ Another interesting thing happened as a result of the tweet going viral was the 
 
 Sadly, that’s only part of the story. The supposed technical progress resulting from this research did not “translate” (sorry) to other gender-neutral languages like Bengali, like the example below shows.
 
-![BE_to_EN_example](./examples/be_en_example1.png)
+![BE_to_EN_example](https://raw.githubusercontent.com/vijaykeswani/vijaykeswani.github.io/refs/heads/master/blog/examples/be_en_example1.png)
 
 In fact, we can find similar examples of gender biases in translation for many Indian languages. Here's an example for English -> Kannada -> English.
 
-![KN_to_EN_example](./examples/kn_en_example1.png)
+![KN_to_EN_example](https://raw.githubusercontent.com/vijaykeswani/vijaykeswani.github.io/refs/heads/master/blog/examples/kn_en_example1.png)
 
 And another for English -> Urdu -> English.
 
-![UD_to_EN_example](./examples/ud_en_example1.png)
+![UD_to_EN_example](https://raw.githubusercontent.com/vijaykeswani/vijaykeswani.github.io/refs/heads/master/blog/examples/ud_en_example1.png)
 
 
 ### Is this a problem with gender-neutral Indian languages only?
@@ -37,11 +37,11 @@ However, even from the simple examples above, the problem of gender bias in tran
 
 Let me show more examples of cases where even translating from gender-specific languages to English introduces gender stereotypes. Here's one for English -> Tamil -> English.
 
-![TN_to_EN_example](./examples/tn_en_example1.png)
+![TN_to_EN_example](https://raw.githubusercontent.com/vijaykeswani/vijaykeswani.github.io/refs/heads/master/blog/examples/tn_en_example1.png)
 
 And another for English -> Marathi -> English.
 
-![MR_to_EN_example](./examples/mr_en_example1.png)
+![MR_to_EN_example](https://raw.githubusercontent.com/vijaykeswani/vijaykeswani.github.io/refs/heads/master/blog/examples/mr_en_example1.png)
 
 So the technical issues don’t seem limited to gender-neutral languages. Wherever the translation AI has to infer context in these examples, it seems to prioritize the gender-stereotypical context. And this missing context doesn’t just to have related the structure of the language itself, as in the case of languages that don’t gendered pronouns like Bengali and Turkish. This missing context could reflect lack of data or modeling structures that are better curated for English than other languages. In either case, the problem underlying the introduction of gender stereotypes seems more complex than thought before (at least by me).
 
