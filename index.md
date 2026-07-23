@@ -9,15 +9,11 @@ Earlier, I was a Postdoctoral Associate, working with [Walter Sinnott-Armstrong]
 
 I received my Ph.D. from the [Department of Statistics and Data Science](https://statistics.yale.edu/) at Yale University, where I worked with [Elisa Celis](https://datascienceethics.org/elisacelis/). While at Yale, I was a Resident Fellow at the Information Society Project (ISP) at Yale Law School from 2022-2023 and a 2022 Policy Fellow at the Yale Institute for Social and Policy Studies (ISPS). Prior to that, I spent time at École Polytechnique Fédérale de Lausanne (EPFL) and the Indian Institute of Technology, Kanpur.
 
-If you are a student at IIT Delhi, happy to chat about potential projects; but do check out the themes covered in my courses below first to get a sense of the topics I am interested in. For non-IITD students reaching out with internship or assistantship requests, it's unlikely I will be able to reply, given the volume of such emails. I would recommend checking out the [IITD PG programs](https://home.iitd.ac.in/pg-admissions.php) if you're interested in research and you can mention my name in your MS/PhD application if you wish to work with me. 
-
-For folks outside academia, in non-profits, industry, or other organizations working on AI ethics, please feel free to reach out directly to chat or collaborate on any problems related to responsible AI.
-
 ### Publications, Preprints, and Workshop Papers
 
 *   Vijay Keswani, Breanna Nguyen, Cyrus Cousins, Vincent Conitzer, Jana Schaich Borg, Walter Sinnott-Armstrong\\
     <b> We Need Practical AI Alignment Methods to Mirror Human Reasoning</b>\\
-    ICML 2026. [openreview](https://openreview.net/pdf?id=bKHpEIZQAi)
+    ICML 2026. [pdf](icml_2026_cognitive_alignment_position.pdf)
 
 *   Cyrus Cousins, Vijay Keswani, Vincent Conitzer, Hoda Heidari, Jana Schaich Borg, Walter Sinnott-Armstrong\\
     <b> Towards Cognitively-Faithful Decision-Making Models to Improve AI Alignment</b>\\
@@ -115,16 +111,22 @@ For folks outside academia, in non-profits, industry, or other organizations wor
 ### Teaching
 
 *    2025/2026 Semester II: [Special Topics course on Responsible AI](https://vijaykeswani.github.io/courses/col8381/)
+*    2026/2027 Semester I: [Introduction to Programming](https://adarsh-barik.github.io/COL1000/)
+
+### Students
+
+If you are a student at IIT Delhi, happy to chat about potential projects; but do check out the themes covered in my courses below first to get a sense of the topics I am interested in. I am actively seeking PhD and MSR/MTech students for research projects on computation & society. If you're interested in working with me, please apply to the CSE [post-graduate program](https://homecse.iitd.ac.in/phd-program/) and note my name in your application, or write to me. For non-IITD students reaching out with internship or assistantship requests, it's unlikely I will be able to reply, given the volume of such emails. I would recommend checking out the [IITD PG programs](https://home.iitd.ac.in/pg-admissions.php) if you're interested in research and you can mention my name in your application if you wish to work with me. 
+
 
 ### Ph.D. Thesis
 
 *   <b>Algorithmic Decision-Making with Stakeholder Participation</b>\\
     Supervised by Prof. Elisa Celis. 2023. [html](Dissertation.html), [pdf](Dissertation.pdf)
 
-### Master's Thesis
+<!-- ### Master's Thesis
 
 *   <b>Laplacian Solvers and Graph Sparsification</b>\\
-    Supervised by Prof. Rajat Mittal. 2016. [pdf](thesis.pdf)
+    Supervised by Prof. Rajat Mittal. 2016. [pdf](thesis.pdf) -->
 
 ### Fairness in AI
 
