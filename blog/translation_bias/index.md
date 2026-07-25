@@ -4,17 +4,17 @@ layout: translation
 
 # Same Bias, Different Treatment: Gender Stereotypes in Machine Translation for Indian Languages
 
-Advances in language modeling have significantly impacted machine translation capabilities, improving both the quality and accessibility of translation services across hundreds of languages. Yet, frustratingly, gender biases in translation continue to be a seemingly unsolved and underattended problem.
+Advances in language modeling have significantly improved machine translation capabilities, impacting both the quality and accessibility of translation services across hundreds of languages. Yet, frustratingly, gender biases in translation continue to be a seemingly unsolved and underattended problem.
 
 What has been known for a while now is that [translation services frequently introduce gender stereotypes](https://www.cell.com/patterns/fulltext/S2666-3899(25)00105-9) through their choice of pronouns, verb forms, and noun inflections. This is true across [language families](https://link.springer.com/article/10.1007/s00521-019-04144-6) and [model architectures](https://arxiv.org/abs/2306.05882), from [early embedding generators](https://proceedings.neurips.cc/paper_files/paper/2016/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html) to [today's large language models](https://dl.acm.org/doi/abs/10.1145/3600211.3604672). Translation services seem to strongly adopt a "traditional persona"; to them, doctors are men by default, nurses women, engineers are masculine, and secretaries are feminine. 
 
-While gender bias in machine translation is somewhat well-known, I thought of writing about some of the examples I have been seeing of this phenomeon with Indian languages. And let me start by acknowledging the wonderful research that many have already done on gender bias in Indian language tech; see [this paper](https://dl.acm.org/doi/abs/10.1145/3600211.3604672), [this one](https://link.springer.com/article/10.1007/s00521-019-04144-6), and [this one too](https://dl.acm.org/doi/abs/10.1145/3630106.3659017). 
+While gender bias in machine translation is somewhat well-known, I thought of starting a note on the examples I have been seeing of this phenomeon with Indian languages. There's already some wonderful research on gender bias in Indian language tech; see [this paper](https://dl.acm.org/doi/abs/10.1145/3600211.3604672), [this one](https://link.springer.com/article/10.1007/s00521-019-04144-6), and [this one too](https://dl.acm.org/doi/abs/10.1145/3630106.3659017). 
 
-My goal with writing this note is to simply document some of the more curious examples of translation biases I have been coming across with Indian languages and, in doing so, maybe complement the research in this space.
+My goal with writing this note is to simply document some of the more curious examples of translation biases I have been coming across with Indian languages.
 
 ### Gender Stereotypes in Translation from Indian Languages
 
-The first time I encountered an example of this was around 2017. A Turkish friend showed me a viral tweet where someone translated “She is a doctor” to Turkish and then back to English, and got back “He is a doctor” (Tommy Shaffer Shane documents the fallout [here](https://aitrouble.wordpress.com/2022/08/16/situation-2-gender-bias-on-google-translate/)). With the tweet going viral, my friend and I (as I am sure many others who encountered the tweet) tried out our own examples and found the “neat” pattern that Google Translate consistently associated gendered pronouns that were stereotypically associated with the corresponding occupations. And unsurprisingly, there were many such examples of this even with Indian languages.
+The first time I encountered an example of this was around 2017. A friend showed me a viral tweet where someone translated “She is a doctor” to Turkish and then back to English, and got back “He is a doctor” (Tommy Shaffer Shane documents the fallout [here](https://aitrouble.wordpress.com/2022/08/16/situation-2-gender-bias-on-google-translate/)). With the tweet going viral, my friend and I (as I am sure many others who encountered the tweet) tried out our own examples and found the “neat” pattern that Google Translate consistently associated gendered pronouns that were stereotypically associated with the corresponding occupations. And unsurprisingly, there were many such examples of this even with Indian languages.
 
 Another interesting thing happened as a result of this tweet going viral was the response from Google. Acknowledging the complex social nature of the exhibited biases and the role that translation plays in propagating these biases across cultural contexts, Google Translate laid out a [research agenda](https://research.google/blog/a-scalable-approach-to-reducing-gender-bias-in-google-translate/) to fix the problem. The very visible result of this investment is that we now see [gender-neutral translations when translating from Turkish to English](https://research.google/blog/providing-gender-specific-translations-in-google-translate/). Yay, right?
 
@@ -26,14 +26,14 @@ In fact, we can find similar examples of gender biases in translation for many I
 
 ![KN_to_EN_example](https://raw.githubusercontent.com/vijaykeswani/vijaykeswani.github.io/refs/heads/master/blog/examples/kn_en_example1.png)
 
-And another for English -> Urdu -> English.
+And another for English → Urdu → English.
 
 ![UD_to_EN_example](https://raw.githubusercontent.com/vijaykeswani/vijaykeswani.github.io/refs/heads/master/blog/examples/ud_en_example1.png)
 
 
 ### Is this a problem with gender-neutral Indian languages only?
 
-It was initially suggested that this problem is specific to translation from/to gender-neutral languages, like Bengali. After all that’s where there is missing context in translation that these automated tools choose to fill with stereotypical information, right? 
+It was initially suggested that this problem is specific to translation from/to gender-neutral languages, like Bengali. After all that’s where there is clear gender-based missing context in translation that these automated tools choose to fill with stereotypical information, right? 
 
 However, even from the simple examples above, the problem appears much more pervasive and complex, and extends generally to other “technologically under-represented” languages (this category overlaps with what some have chosen to call [“low resource” languages](https://dl.acm.org/doi/full/10.1145/3567592), but that term is vague and mainly takes the viewpoint of the resources of those who hold the power of making models). 
 
@@ -59,4 +59,4 @@ There is visibility meta-bias to this issue; fixes get prioritised for languages
 The same dynamic is playing out again with Google's recently introduced "Show Alternatives" feature (probably [Gemini powered](https://www.androidauthority.com/translate-show-alternatives-3632048/)) which shows gender-neutral translation options for Hindi, but is absent for all other Indian languages. I am sure considerations associated with costs of running LLMs to produce these alternatives is probably a concern here. But still the prioritization of some languages over others for this feature seems strange. 
 Language has always been entangled with power, [as is language tech](https://aclanthology.org/2020.acl-main.485/). At a time when this entanglement is more contested than ever, disparate treatment in access to language tech only deepens existing divides. 
 
-I have created a tool for people to play around with similar examples to see how gender stereotypes manifest in translations from different Indian languages. Feel free to reach out with suggestions for other examples that come to mind!!
+I have created a tool, available here, to play around with similar examples to see how gender stereotypes manifest in translations from different Indian languages. Feel free to reach out with suggestions for other examples that come to mind!!
